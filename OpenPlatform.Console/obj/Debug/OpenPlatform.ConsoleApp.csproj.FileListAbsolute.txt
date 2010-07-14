@@ -1,0 +1,8 @@
+C:\Projects\GuardianOpenPlatform\OpenPlatform\OpenPlatform.Console\bin\Debug\OpenPlatform.Console.exe.config
+C:\Projects\GuardianOpenPlatform\OpenPlatform\OpenPlatform.Console\bin\Debug\OpenPlatform.Console.exe
+C:\Projects\GuardianOpenPlatform\OpenPlatform\OpenPlatform.Console\bin\Debug\OpenPlatform.Console.pdb
+C:\Projects\GuardianOpenPlatform\OpenPlatform\OpenPlatform.Console\bin\Debug\OpenPlatform.dll
+C:\Projects\GuardianOpenPlatform\OpenPlatform\OpenPlatform.Console\bin\Debug\OpenPlatform.pdb
+C:\Projects\GuardianOpenPlatform\OpenPlatform\OpenPlatform.Console\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\GuardianOpenPlatform\OpenPlatform\OpenPlatform.Console\obj\Debug\OpenPlatform.Console.exe
+C:\Projects\GuardianOpenPlatform\OpenPlatform\OpenPlatform.Console\obj\Debug\OpenPlatform.Console.pdb

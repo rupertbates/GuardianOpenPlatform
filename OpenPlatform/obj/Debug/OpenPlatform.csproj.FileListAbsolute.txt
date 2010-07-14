@@ -1,0 +1,11 @@
+C:\Projects\GuardianOpenPlatform\OpenPlatform\LinqToOpenPlatform\bin\Debug\APIResponses\SearchResults.xml
+C:\Projects\GuardianOpenPlatform\OpenPlatform\LinqToOpenPlatform\bin\Debug\OpenPlatform.dll
+C:\Projects\GuardianOpenPlatform\OpenPlatform\LinqToOpenPlatform\bin\Debug\OpenPlatform.pdb
+C:\Projects\GuardianOpenPlatform\OpenPlatform\LinqToOpenPlatform\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\GuardianOpenPlatform\OpenPlatform\LinqToOpenPlatform\obj\Debug\OpenPlatform.dll
+C:\Projects\GuardianOpenPlatform\OpenPlatform\LinqToOpenPlatform\obj\Debug\OpenPlatform.pdb
+C:\Projects\GuardianOpenPlatform\OpenPlatform\OpenPlatform\bin\Debug\OpenPlatform.dll
+C:\Projects\GuardianOpenPlatform\OpenPlatform\OpenPlatform\bin\Debug\OpenPlatform.pdb
+C:\Projects\GuardianOpenPlatform\OpenPlatform\OpenPlatform\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\GuardianOpenPlatform\OpenPlatform\OpenPlatform\obj\Debug\OpenPlatform.dll
+C:\Projects\GuardianOpenPlatform\OpenPlatform\OpenPlatform\obj\Debug\OpenPlatform.pdb

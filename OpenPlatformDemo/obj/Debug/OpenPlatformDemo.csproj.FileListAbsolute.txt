@@ -1,0 +1,7 @@
+C:\Projects\GuardianOpenPlatform\OpenPlatform\OpenPlatformDemo\bin\OpenPlatformDemo.dll
+C:\Projects\GuardianOpenPlatform\OpenPlatform\OpenPlatformDemo\bin\OpenPlatformDemo.pdb
+C:\Projects\GuardianOpenPlatform\OpenPlatform\OpenPlatformDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\GuardianOpenPlatform\OpenPlatform\OpenPlatformDemo\obj\Debug\OpenPlatformDemo.dll
+C:\Projects\GuardianOpenPlatform\OpenPlatform\OpenPlatformDemo\obj\Debug\OpenPlatformDemo.pdb
+C:\Projects\GuardianOpenPlatform\OpenPlatform\OpenPlatformDemo\bin\OpenPlatform.dll
+C:\Projects\GuardianOpenPlatform\OpenPlatform\OpenPlatformDemo\bin\OpenPlatform.pdb
