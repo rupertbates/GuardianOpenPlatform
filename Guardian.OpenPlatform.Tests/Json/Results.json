@@ -1,0 +1,190 @@
+﻿{
+  "response":{
+    "status":"ok",
+    "userTier":"approved",
+    "total":225,
+    "startIndex":1,
+    "pageSize":10,
+    "currentPage":1,
+    "pages":23,
+    "orderBy":"relevance",
+    "results":[{
+      "id":"music/2010/may/12/joanna-newsom-review",
+      "sectionId":"music",
+      "sectionName":"Music",
+      "webPublicationDate":"2010-05-12T23:00:00+01:00",
+      "webTitle":"Joanna Newsom | Pop review",
+      "webUrl":"http://www.guardian.co.uk/music/2010/may/12/joanna-newsom-review",
+      "apiUrl":"http://content.guardianapis.com/music/2010/may/12/joanna-newsom-review",
+      "fields":{
+        "headline":"Joanna Newsom",
+        "trailText":"<p><strong>Royal Festival Hall, London</strong><br />The magical Joanna Newsom's affected caterwaul is giving way to a softer, more natural timbre, writes <strong>Will Hodkinson</strong></p>",
+        "body":"<!-- Redistribution rights for this field are unavailable -->",
+        "shortUrl":"http://gu.com/p/2hxab",
+        "standfirst":"Royal Festival Hall, London",
+        "thumbnail":"http://static.guim.co.uk/sys-images/Music/Pix/pictures/2010/5/13/1273739863542/Joanna-Newsom-at-the-Roya-002.jpg",
+        "byline":"Will Hodkinson",
+        "publication":"guardian.co.uk"
+      }
+    },{
+      "id":"music/2004/nov/06/popandrock2",
+      "sectionId":"music",
+      "sectionName":"Music",
+      "webPublicationDate":"2004-11-06T23:57:38Z",
+      "webTitle":"Joanna Newsom, ICA, London",
+      "webUrl":"http://www.guardian.co.uk/music/2004/nov/06/popandrock2",
+      "apiUrl":"http://content.guardianapis.com/music/2004/nov/06/popandrock2",
+      "fields":{
+        "headline":"Joanna Newsom",
+        "trailText":"<p>ICA, London</p>",
+        "body":"<p>The harp has never been the most rock'n'roll of instruments. Save for a notable appearance on the Beatles' She's Leaving Home, it was only Brian Wilson who saw the possibilities. Until now. Step forward Joanna Newsom, classical harpist and burgeoning queen of alt-folk.  </p><p>Despite having grown up in Nevada City and now firmly ensconced in the San Francisco scene that has spawned the similarly nostalgic and odd-sounding Devendra Barnhardt, 22-year-old Newsom has a twang that's straight from the Appalachian mountains.  </p><p>Influenced by bluegrass and blues, her debut album, The Milk-Eyed Mender, sounds like a lost soul wandering around Narnia. Her songs are dark nursery rhymes, but her childlike take on the world is no act. \"My dad's here,\" she says. \"He's come a far far away from the horrible horrible things going on in the United   States,\" she continues, as if about to read an especially grim fairy tale.  </p><p>Newsom is a magnetic, mischievous presence. Her fingers deftly run up and down her towering celtic harp, adding drama to the dizzy sweetness of Cassiopeia. Eyes skyward, as if taking instruction from some divine source of inspiration, she rests her head close to her harp, as though nestling into a lover.  </p><p>Then there's that voice. A combination of Cat Power, Bj&#246;rk and a pre-pubescent Bonnie Langford, she caresses and squashes words with abandon. Newsom rolls her tongue around her eccentric poetry and knowing prose with all the relish of a child licking an ice-cream. Often she shrieks like an attention-seeking toddler, before turning passionately maternal for the antiwar lullaby What We Have Known.  </p><p>Her vocals take some getting used to; you need to retune your ear to make out her meaning. But it's worth it. From the exotic En Gallop to the dreamy escapism of Sadie, classical rhythms rise and fall around Newsom's fractured voice, turning heartache into fantasy.   </p><p><strong>&#183; </strong>At the Rescue Rooms, Nottingham, on November 20. Box office: 0115-958 8484. Then touring.</p><div class=\"gu_advert\">\n      <a href=\"http://oas.guardian.co.uk/RealMedia/ads/click_nx.ads/guardianapis.com/music/oas.html/@Bottom\">\n          <img src=\"http://oas.guardian.co.uk/RealMedia/ads/adstream_nx.ads/guardianapis.com/music/oas.html/@Bottom\" alt=\"Ads by The Guardian\"></img>\n      </a>\n    </div><img alt='' src='http://hits.guardian.co.uk/b/ss/guardiangu-apidev/1/H.20.3/98867?ns=guardian&pageName=Joanna+Newsom%2C+ICA%2C+London+Article+893250&ch=Music&c2=&c4=Joanna+Newsom%2CMusic%2CPop+and+rock+%28Music+genre%29%2CCulture&c3=guardian.co.uk&c6=Betty+Clarke&c7=04-Nov-06&c8=893250&c9=Article' width='1' height='1' /><!-- Guardian Watermark: music/2004/nov/06/popandrock2|2010-09-17T13:10:54+01:00|9c19d6b3c40e51b7cbefef52afa08b8adc11ecc2 -->",
+        "strap":"Pop",
+        "shortUrl":"http://gu.com/p/xta89",
+        "standfirst":"ICA, London",
+        "byline":"Betty Clarke",
+        "publication":"guardian.co.uk"
+      }
+    },{
+      "id":"music/2010/may/16/joanna-newsom-pavement-review",
+      "sectionId":"music",
+      "sectionName":"Music",
+      "webPublicationDate":"2010-05-16T00:05:05+01:00",
+      "webTitle":"Joanna Newsom/Pavement | Pop review",
+      "webUrl":"http://www.guardian.co.uk/music/2010/may/16/joanna-newsom-pavement-review",
+      "apiUrl":"http://content.guardianapis.com/music/2010/may/16/joanna-newsom-pavement-review",
+      "fields":{
+        "headline":"Joanna Newsom; Pavement",
+        "trailText":"Harpist Joanna Newsom reveals her rollicking side. Elsewhere, Pavement's wayward drummer steals the show, writes <strong>Kitty Empire</strong>",
+        "body":"<p>Recently, superstar harpist <strong>Joanna Newsom</strong> has bridled at the public perception that she is some otherworldly nymph, serenading the small creatures of the forest on an instrument strung from myth. Musicians are prone to rolling their eyes at the shorthand that they have, in fact, created for themselves. Newsom isn't undermining her fairy queen image, either, when she appears at the first of two sold-out Royal Festival Hall shows in a floaty gown, all cascading hair and Tinkerbell heels.</p><p>Her latest album has gone some way, however, towards repositioning Newsom as a tipsy bonne vivante partial to swing. Tonight's set draws heavily from <em>Have One on Me</em>, a record spiked with references to drink and laced with honky-tonk piano. \"Make mine a triple,\" Newsom must have said, and her record company duly corralled 18 songs on to three discs.</p><p>Newsom's voice once divided listeners; a curdled chirrup that suggested an errant child sucking a lemon. But after treatment for nodules on her vocal cords last year \u2013 total Trappist silence for weeks, apparently \u2013 and a change in approach, that kink has been ironed out, allowing Newsom to husk and simmer as well as quaver.</p><p>She is pristine at her harp on set opener \"81\"; thoughtful and transported for \"Have One on Me\", the complex title track from her third album. The new Newsom begins to reveal herself more fully, however, on piano numbers such as \"Easy\" and \"Soft as Chalk\". They loosen her up, percolating along with the aid of muted trombone and strings stabs, or a rattling tambourine.</p><p>The 28-year-old Californian toured her second album, <em>Ys</em>, with symphony orchestras, but <em>Have One</em> hangs with an altogether less rarefied cohort \u2013 a band. Drummer Neal Morgan coaxes innovative sounds out of his kit, swatting and stroking unorthodox parts of it, while Ryan Francesconi swaps between banjo, tambura and wind instruments. Two violinists and a trombone player make up the number, adding backing vocals and handclaps, while Newsom alternates between harp and grand piano. Newsom is relaxed in their company, letting Morgan field increasingly surreal questions (the pedestrianisation of Norwich is one) from the&nbsp;crowd as she tunes her harp.</p><p>The atmosphere of cloistered preciousness which has sometimes dogged Newsom's music seems to be on the wane, replaced by a sense of good times rolling. Nowhere is this more evident than on \"Good Intentions Paving Company\", the rollicking fulcrum of Newsom's bar band conversion. She holds forth, plonking away on the piano, her voice like a shot of something illicit, while her excellent band rise with her, contributing licks of banjo and a classy trombone solo.</p><p>Harp shtick aside, Newsom's winning suit has always been the sense of sumptuousness in her music, the long songs whose phrases routinely burst their banks, whose wordy, overstuffed bars spill over into one another. Tonight's performance recalls a teetering tower of champagne glasses, overfilled and cascading into the layer below. It is no greatest hits set \u2013 we get \"Inflammatory Writ\" and \"Monkey and Bear\", but no songs with girls' names \u2013  but it still feels luxurious.</p><p>There would be little point in bands reuniting if they didn't play the hits. Nineties alternative sensations <strong>Pavement</strong> provided many on the final night of their residency at London's Brixton Academy.</p><p>Of course, these mostly Californians never had hits as their accountant would understand them. The nearest the sumptuous indie rockers ever got to a payday was 1994's \"Cut Your Hair\", a snide song about making one's indie band more marketable. It's one of tonight's wry and fond highlights, alongside an explosive \"Stereo\" and a giddy \"Trigger Cut\".</p><p>This band's wayward glory began in being called Pavement (not Sidewalk), continuing through five albums of anti-grunge wit and exuberance, before ending at this venue 11 years ago when guitarist Stephen Malkmus walked off the stage in a different direction to the rest of the band.</p><p>Malkmus walks off in the same direction tonight, but the enmity is far less acute. Pavement have admitted they reunited to pay off second drummer-cum-hype man Bob Nastanovich's gambling debts. Malkmus \u2013 who's had another fine band, the Jicks, for a decade now \u2013 may do bored circus tricks with his guitar when Pavement's other guitarist-singer Scott Kannberg sings his songs, but it is without active malice. Sadly, the muddy sound does Pavement's subtleties few favours tonight, with Malkmus's more delicate guitar interventions coming more from memory than the PA.</p><p>With Malkmus on simmer, the night's real star is grateful Nastanovich. His percussion, shouting and bonhomie always provided respite from Pavement's cat's cradle song structures and clever-clever lyrics. Hearing Pavement's back catalogue again, Nastanovich-heavy songs such as \"Two States\" sound more and more like Pavement's finest hours.</p><div class=\"gu_advert\">\n      <a href=\"http://oas.guardian.co.uk/RealMedia/ads/click_nx.ads/guardianapis.com/music/oas.html/@Bottom\">\n          <img src=\"http://oas.guardian.co.uk/RealMedia/ads/adstream_nx.ads/guardianapis.com/music/oas.html/@Bottom\" alt=\"Ads by The Guardian\"></img>\n      </a>\n    </div><img alt='' src='http://hits.guardian.co.uk/b/ss/guardiangu-apidev/1/H.20.3/98867?ns=guardian&pageName=Joanna+Newsom%2FPavement+%7C+Pop+review+Article+1399542&ch=Music&c2=&c4=Pop+and+rock+%28Music+genre%29%2CJoanna+Newsom%2CPavement+%28Music%29%2CMusic%2CCulture&c3=guardian.co.uk&c6=Kitty+Empire&c7=10-May-16&c8=1399542&c9=Article' width='1' height='1' /><!-- Guardian Watermark: music/2010/may/16/joanna-newsom-pavement-review|2010-09-17T13:10:54+01:00|1afff0d542a531e23e7857cfe348e8dadca5861d -->",
+        "shortUrl":"http://gu.com/p/2h2yz",
+        "standfirst":"Royal Festival Hall, London; Brixton Academy, London",
+        "thumbnail":"http://static.guim.co.uk/sys-images/Observer/Pix/pictures/2010/5/14/1273847882050/Joanna-Newsom-Performs-At-002.jpg",
+        "byline":"Kitty Empire",
+        "publication":"guardian.co.uk"
+      }
+    },{
+      "id":"commentisfree/2007/jan/29/comment.pop",
+      "sectionId":"music",
+      "sectionName":"Music",
+      "webPublicationDate":"2007-01-29T00:10:20Z",
+      "webTitle":"Leader: In praise of... Joanna Newsom",
+      "webUrl":"http://www.guardian.co.uk/commentisfree/2007/jan/29/comment.pop",
+      "apiUrl":"http://content.guardianapis.com/commentisfree/2007/jan/29/comment.pop",
+      "fields":{
+        "headline":"In praise of... Joanna Newsom",
+        "trailText":"<b>Leader:</b> What a delight to see the classical harp transfix rock-concert audiences.",
+        "body":"<!-- Redistribution rights for this field are unavailable -->",
+        "shortUrl":"http://gu.com/p/hegm",
+        "byline":"Leader",
+        "publication":"guardian.co.uk"
+      }
+    },{
+      "id":"music/2006/nov/03/popandrock1",
+      "sectionId":"music",
+      "sectionName":"Music",
+      "webPublicationDate":"2006-11-03T00:15:00Z",
+      "webTitle":"CD: Joanna Newsom, Ys",
+      "webUrl":"http://www.guardian.co.uk/music/2006/nov/03/popandrock1",
+      "apiUrl":"http://content.guardianapis.com/music/2006/nov/03/popandrock1",
+      "fields":{
+        "headline":"Joanna Newsom, Ys",
+        "trailText":"<p>(Drag City)</p>",
+        "body":"<p>There is no getting around the fact that Joanna Newsom is an enormously hard sell. Even in a climate in which a major label has given a contract to the Horrors - a band, lest we forget, who appear to have based their sound and their image almost entirely on that of the Savages, the dimly-remembered 1960s rock band fronted by erstwhile Monster Raving Loony Party leader Screaming Lord Sutch - it's hard to imagine Newsom getting further than most record company's receptions. Here is a 24-year-old Californian singing harpist, who wears her hair in braids, seems to have a thing about depicting herself as a medieval wench on her record sleeves and recently claimed her big influence was bassoon-heavy communist prog rock band Henry Cow, famed for decorating their album covers with paintings of socks.</p><p>Even people who enthused about Newsom's 2004 debut album The Milk-Eyed Mender did so in terms that made the intrigued-but-uninitiated wonder if giving it a wide berth might not be such a bad idea. Most of the discussion centred around her voice: those who liked it compared it to Marge Simpson, or a small, asthmatic child. Another suggested she sounded \"so precious, she's basically a Hummel figurine\". People who disliked it tended to describe it in more daunting terms.</p><p>Indeed, Newsome's second album seems to be going out of its way to repel what shopkeepers refer to as passing trade. Its title is literally unspeakable - apparently, you're meant to pronounce it \"ees\". It comes in an embossed sleeve featuring a heavily symbolic painting of Newsom holding a sickle and a mounted butterfly. It features five songs, the shortest of which lasts over seven minutes and the longest nearly 17. The lyric book goes on and on like the Gobi Desert. It may well be the most off-putting album released this year. After playing it, there seems every chance it is the also the most astonishing.</p><p>The first sign that something unusual is up comes with the production credits, which feature both Steve Albini and Van Dyke Parks. It takes a unique inspiration to pair a man famed as a producer of such stern austerity that he won't even call himself a producer with a man best-known for creating the 1960s most ornate, rococo albums - the Beach Boys' Smile and his own Song Cycle - but Newsom clearly has unique inspiration to burn. Her songs are remarkable: richly melodic, they ebb and flow in entirely unanticipated directions. The opener, Emily, shifts from brooding to gleeful to sinister to playful and back, Newsom's harp augmented by Parks' wildly inventive orchestrations, which, like the songs themselves, never quite do what you expect. Meanwhile, it's hard not to feel that the topic of Newsom's voice has been a bit overegged. Child-like and breathy, it certainly doesn't sound like anyone else, but you could say the same thing about Ys as a whole, and mean it as the highest praise.</p><p>The lyrics are fantastic. You hesitate to compare Newsom to the Fall, partly because she sounds nothing like them and partly because Mark E Smith might get wind that you have equated his band with a singing Californian harpist with plaits and a medieval bent and jump on the first train from Salford with the intention of belting you one. But what Newsom does share with the Fall's dissipated leader is a rare ability to craft lyrics so mysterious and allusive that to all intents and purposes they make no sense, but which still manage to draw you in and hold you with the richness of their language. Doing this is a tall order, particularly when an album features the sheer volume of words that Ys does. There are moments when Newsom stumbles into the grim territory where prog rockers once set up camp: her love of \"thee\" and \"fain\" can seem a bit affected. More often, her obvious love of words just carries the listener helplessly along. It's hard to work out what the 16-minute Only Skin is on about, but that doesn't stop you being beguiled by the way she turns a description of a river into something infinitely more lubricious, going from nature trail to knickers off in a matter of seconds: \"I watched how the water was kneading so neatly, gone treacly, nearly slowed to a stop; frenzied coiling flush along the muscles beneath,\" she sings. \"Press on me, we are restless things.\" Nor does it stop the song's denouement, which for some reason concerns a bird flying into a window, from being inexplicably moving.</p><p>Ys is full of moments like that: magical for reasons you can't quite put your finger on. Within minutes of it starting, you're struck by the rare sensation that you've entering uncharted, original territory. A hard sell, perhaps, but it could be the best musical investment you make all year.</p><div class=\"gu_advert\">\n      <a href=\"http://oas.guardian.co.uk/RealMedia/ads/click_nx.ads/guardianapis.com/music/oas.html/@Bottom\">\n          <img src=\"http://oas.guardian.co.uk/RealMedia/ads/adstream_nx.ads/guardianapis.com/music/oas.html/@Bottom\" alt=\"Ads by The Guardian\"></img>\n      </a>\n    </div><img alt='' src='http://hits.guardian.co.uk/b/ss/guardiangu-apidev/1/H.20.3/98867?ns=guardian&pageName=CD%3A+Joanna+Newsom%2C+Ys+Article+862572&ch=Music&c2=&c4=Joanna+Newsom%2CPop+and+rock+%28Music+genre%29%2CMusic%2CCulture&c3=guardian.co.uk&c6=Alexis+Petridis&c7=06-Nov-03&c8=862572&c9=Article' width='1' height='1' /><!-- Guardian Watermark: music/2006/nov/03/popandrock1|2010-09-17T13:10:54+01:00|dba86b8ecca2548a25475b266ae3c7d215bf2182 -->",
+        "strap":"Pop CD",
+        "shortUrl":"http://gu.com/p/xgm63",
+        "standfirst":"(Drag City)",
+        "byline":"Alexis Petridis",
+        "publication":"guardian.co.uk"
+      }
+    },{
+      "id":"music/2006/oct/15/shopping.classicalmusicandopera",
+      "sectionId":"music",
+      "sectionName":"Music",
+      "webPublicationDate":"2006-10-15T15:13:21+01:00",
+      "webTitle":"CD: Joanna Newsom, Ys",
+      "webUrl":"http://www.guardian.co.uk/music/2006/oct/15/shopping.classicalmusicandopera",
+      "apiUrl":"http://content.guardianapis.com/music/2006/oct/15/shopping.classicalmusicandopera",
+      "fields":{
+        "headline":"Joanna Newsom, Ys",
+        "trailText":"<p>No one is like the gothic harpist, insists <strong>Stephanie Merritt</strong>. Or at least no one from the past few hundred years.</p>",
+        "body":"<p>The first reaction on hearing 24-year-old Joanna Newsom's second album, Ys, is simply to be stunned. Stunned at the scope and breadth and imagination of it, and stunned, too, that there are still artists with the courage and vision to produce music as startlingly original and true as this.</p><p>Newsom is, inevitably, an acquired taste, but subsequent plays reveal hidden layers of texture and colour, for what she has created is a vast musical painting - perhaps a better analogy would be a medieval tapestry, rich with symbolic detail and depicting a vast landscape of the imagination stretching into the distance through arched windows.</p><p>There is a distinctly medieval flavour to her lyrics - each of the five songs here is a lengthy narrative poem - reinforced by the design of the inlay and the Holbein-esque painting of Newsom. But it is the fantasy gothic as reimagined by Kate Bush or 19th-century poet Christina Rossetti, and occasionally runs the same risks of straying the wrong side of whimsy - among her brilliant and difficult imagery there is perhaps a little too much 'fain' and 'thee'. Yet these are strange and beautiful musical fables that elude easy interpretation, particularly 'Emily', dedicated to her sister (who provides vocal harmonies), and 'Monkey and Bear', a parable (possibly) about emancipation.</p><p>Since her acclaimed debut album The Milk-Eyed Mender (which sounds positively conventional in contrast to Ys), Newsom has established herself as an entirely distinctive artist, set apart by her exceptional voice, which can't help recall Kate Bush and Bjork in its surprising twists and lurches, and her unusual, staccato harp-playing, derived from African harpists rather than the lush, slightly twee image the instrument tends to conjure. The songs on Ys are built around these elements, foregrounding the harp but fleshing it out with orchestral arrangements by composer and famed Brian Wilson collaborator Van Dyke Parks (not the only notable name here - the album was mixed by Jim O'Rourke and recorded by Steve Albini).</p><p>You could spend a lot of time debating the influences here - there are hints of Patti Smith and minimalist composer Terry Riley, a neighbour of Newsom's as she grew up and an acknowledged influence - but really this album is unlike anything else you will hear at present. Ys is an exceptional piece of art in the broadest sense - give it the chance to grow on you.</p><p><strong>Recommended: </strong>'Emily'; 'Monkey and Bear'</p><div class=\"gu_advert\">\n      <a href=\"http://oas.guardian.co.uk/RealMedia/ads/click_nx.ads/guardianapis.com/music/oas.html/@Bottom\">\n          <img src=\"http://oas.guardian.co.uk/RealMedia/ads/adstream_nx.ads/guardianapis.com/music/oas.html/@Bottom\" alt=\"Ads by The Guardian\"></img>\n      </a>\n    </div><img alt='' src='http://hits.guardian.co.uk/b/ss/guardiangu-apidev/1/H.20.3/98867?ns=guardian&pageName=CD%3A+Joanna+Newsom%2C+Ys+Article+860877&ch=Music&c2=&c4=Joanna+Newsom%2CMusic%2CClassical+music+%28Music+genre%29%2CCulture&c3=guardian.co.uk&c6=Stephanie+Merritt&c7=06-Oct-15&c8=860877&c9=Article' width='1' height='1' /><!-- Guardian Watermark: music/2006/oct/15/shopping.classicalmusicandopera|2010-09-17T13:10:54+01:00|6dab95740cc876e4cec684411cfcc9a03167acdd -->",
+        "strap":"The first 10: 2",
+        "shortUrl":"http://gu.com/p/xgjz9",
+        "standfirst":"No one is like the gothic harpist, insists Stephanie Merritt. Or at least no one from the past few hundred years",
+        "byline":"Stephanie Merritt",
+        "publication":"guardian.co.uk"
+      }
+    },{
+      "id":"music/2010/feb/25/joanna-newsom-have-one-me",
+      "sectionId":"music",
+      "sectionName":"Music",
+      "webPublicationDate":"2010-02-25T23:05:01Z",
+      "webTitle":"Joanna Newsom: Have One On Me | CD review",
+      "webUrl":"http://www.guardian.co.uk/music/2010/feb/25/joanna-newsom-have-one-me",
+      "apiUrl":"http://content.guardianapis.com/music/2010/feb/25/joanna-newsom-have-one-me",
+      "fields":{
+        "headline":"Joanna Newsom: Have One On Me",
+        "trailText":"Joanna Newsome makes lyrical and musical sophistication look easy on her followup to Ys, writes <strong>Will Dean</strong>",
+        "body":"<p></p><p>The inlay to Pulp's Different Class memorably told listeners not to read the lyrics while listening to the album. For Joanna Newsom's third record, each song's lyric is so long, beautifully phrased \u2013 \"Even the ghosts huddled up for warmth,\" she whispers on Autumn \u2013 and dense with detail that it's difficult to keep up without study aids. Suffice to say, not many records in 2010 will contain phrases like \"faultlessly etiolated\". The music, as anyone who devoured 2006's Ys will expect, is equally open to exposition. Ryan Francesconi's arrangements may be subtle \u2013 Newsom's harp remains central almost throughout \u2013 but they perfectly complement the looking-glass mystique of compositions like Good Intentions Paving Company and Jackrabbits. At two-hours-plus, it's a record that demands concentration to appreciate its splatterings of beauty. But pour yourself a glass and listen, because they don't make them like this too often. Grand, long and bold \u2013 Newsom makes it sound like the first word she sings here: easy.<strong> </strong></p><div class=\"gu_advert\">\n      <a href=\"http://oas.guardian.co.uk/RealMedia/ads/click_nx.ads/guardianapis.com/music/oas.html/@Bottom\">\n          <img src=\"http://oas.guardian.co.uk/RealMedia/ads/adstream_nx.ads/guardianapis.com/music/oas.html/@Bottom\" alt=\"Ads by The Guardian\"></img>\n      </a>\n    </div><img alt='' src='http://hits.guardian.co.uk/b/ss/guardiangu-apidev/1/H.20.3/98867?ns=guardian&pageName=Joanna+Newsom%3A+Have+One+On+Me+%7C+CD+review+Article+1363339&ch=Music&c2=&c4=Joanna+Newsom%2CPop+and+rock+%28Music+genre%29%2CFolk+music+%28Music+genre%29%2CMusic%2CCulture&c3=guardian.co.uk&c6=Will+Dean&c7=10-Feb-25&c8=1363339&c9=Article' width='1' height='1' /><!-- Guardian Watermark: music/2010/feb/25/joanna-newsom-have-one-me|2010-09-17T13:10:54+01:00|c97d588058a74c69f006e1fa83a7cfd1205b85f8 -->",
+        "shortUrl":"http://gu.com/p/2f74x",
+        "standfirst":"(Drag City)",
+        "byline":"Will Dean",
+        "publication":"guardian.co.uk"
+      }
+    },{
+      "id":"music/2010/feb/21/joanna-newsom-cd-review",
+      "sectionId":"music",
+      "sectionName":"Music",
+      "webPublicationDate":"2010-02-21T00:07:19Z",
+      "webTitle":"Joanna Newsom: Have One on Me | CD review",
+      "webUrl":"http://www.guardian.co.uk/music/2010/feb/21/joanna-newsom-cd-review",
+      "apiUrl":"http://content.guardianapis.com/music/2010/feb/21/joanna-newsom-cd-review",
+      "fields":{
+        "headline":"Joanna Newsom: Have One on Me",
+        "trailText":"<p>Now that Joanna Newsom has finally learnt to sing, she's even greater than ever, says <strong>Kitty Empire</strong></p>",
+        "body":"<p>Pop attention spans have been in recession for some time; reputations can now be made entirely on laptops. But if any artist can justify an album filling three CDs, it is west coast bard Joanna Newsom. With her last stunning effort, 2006's <em>Ys</em>, Newsom led an artisanal counterinsurgency armed with a harp, luxuriant album art and allegorical compositions that frequently edged towards the eight-minute mark.</p><p>Those maximalist keynotes remain constant on her latest album, as does Newsom's roster of animal totems. <em>Have One on Me</em> introduces a number of new riffs too. The cover finds Newsom swapping medieval symbolism for flapper-era luxe; fans will ponder the stuffed fawns and chinoiserie for months to come. Gone are the intense studio orchestrations of Van Dyke Parks, replaced by the more varied input of Ys Street Band leader Ryan Francesconi. If the sound of air passing over microphones bookends every song, then it makes the music crackle with life. <em>Ys</em> concerned itself with fathers, sisters, lovers, death and astronomy; it is, perhaps, too early to say with any certainty what <em>Have One on Me</em> might be about; love, Lola Montez's spider dance and horse rustling (\"You and Me, Bess\") are just three themes.</p><p>Newsom's work performed a great leap forward between her debut, 2004's <em>The</em> <em>Milk-Eyed Mender</em>, and <em>Ys</em>; there is a correspondingly Knievel-like vault here. Never lacking in assurance, the Newsom of <em>Have One on Me</em> has grown more graceful by loosening up. References to drinking punctuate these shape-shifting songs.</p><p>The awesome arc performed by \"Baby Birch\" packs in innovations: handclaps, furtive blares of electric guitar and a strange eastern origami coda that neatly folds a bit of Japan into a bit of Bulgaria. It is nine-and-a-half minutes long and yet you curse the fade-out.</p><p>The superb \"Good Intentions Paving Company\" is, by contrast, a jaunty road movie where Newsom's piano gets a fillip from some rattling percussion, banjo, mandolin and subdued brass. \"Go Long\" features a jaw-dropping duel between harp and kora, the west African lute whose techniques influenced Newsom's distinct approach to her instrument.</p><p>The headline news, though, is that Newsom has finally conquered that most wayward bit of equipment \u2013 her voice. The witch-child who squawked <em>The Milk-Eyed Mender</em> songs has been sent up to bed. Now Newsom can lilt and croon at will, two hours in her company flies by.</p><div class=\"gu_advert\">\n      <a href=\"http://oas.guardian.co.uk/RealMedia/ads/click_nx.ads/guardianapis.com/music/oas.html/@Bottom\">\n          <img src=\"http://oas.guardian.co.uk/RealMedia/ads/adstream_nx.ads/guardianapis.com/music/oas.html/@Bottom\" alt=\"Ads by The Guardian\"></img>\n      </a>\n    </div><img alt='' src='http://hits.guardian.co.uk/b/ss/guardiangu-apidev/1/H.20.3/98867?ns=guardian&pageName=Joanna+Newsom%3A+Have+One+on+Me+%7C+CD+review+Article+1360582&ch=Music&c2=&c4=Joanna+Newsom%2CPop+and+rock+%28Music+genre%29%2CFolk+music+%28Music+genre%29%2CMusic%2CCulture&c3=guardian.co.uk&c6=Kitty+Empire&c7=10-Feb-21&c8=1360582&c9=Article' width='1' height='1' /><!-- Guardian Watermark: music/2010/feb/21/joanna-newsom-cd-review|2010-09-17T13:10:54+01:00|043482bca8a819eba9d1b23ed2cb93895dfff844 -->",
+        "shortUrl":"http://gu.com/p/2f39p",
+        "standfirst":"(Drag City)",
+        "thumbnail":"http://static.guim.co.uk/sys-images/Observer/Pix/pictures/2010/2/17/1266409177056/Joanna-Newsom-medieval-sy-004.jpg",
+        "byline":"Kitty Empire",
+        "publication":"guardian.co.uk"
+      }
+    },{
+      "id":"music/musicblog/2010/jan/27/joanna-newsom-81",
+      "sectionId":"music",
+      "sectionName":"Music",
+      "webPublicationDate":"2010-01-27T11:27:00Z",
+      "webTitle":"New music: Joanna Newsom \u2013 '81",
+      "webUrl":"http://www.guardian.co.uk/music/musicblog/2010/jan/27/joanna-newsom-81",
+      "apiUrl":"http://content.guardianapis.com/music/musicblog/2010/jan/27/joanna-newsom-81",
+      "fields":{
+        "headline":"New music: Joanna Newsom \u2013 '81",
+        "trailText":"<p>It's not everyday we enjoy hearing someone harping on. But '81, taken from Joanna Newsom's forthcoming triple (TRIPLE!) album, is plucking great</p>",
+        "body":"<!-- Redistribution rights for this field are unavailable -->",
+        "shortUrl":"http://gu.com/p/2e5gt",
+        "standfirst":"It's not everyday we enjoy hearing someone harping on. But '81, taken from Joanna Newsom's forthcoming triple (TRIPLE!) album, is plucking great",
+        "thumbnail":"http://static.guim.co.uk/sys-images/Music/Pix/pictures/2010/1/27/1264586844262/Joanna-Newsom-004.jpg",
+        "byline":"guardian.co.uk/music",
+        "publication":"guardian.co.uk"
+      }
+    },{
+      "id":"music/2010/jan/27/joanna-newsom-announces-triple-album",
+      "sectionId":"music",
+      "sectionName":"Music",
+      "webPublicationDate":"2010-01-27T10:16:49Z",
+      "webTitle":"Joanna Newsom announces triple album",
+      "webUrl":"http://www.guardian.co.uk/music/2010/jan/27/joanna-newsom-announces-triple-album",
+      "apiUrl":"http://content.guardianapis.com/music/2010/jan/27/joanna-newsom-announces-triple-album",
+      "fields":{
+        "headline":"Joanna Newsom announces triple album",
+        "trailText":"The hippie-dippy harpist has unveiled the first track from her three-album set, Have One On Me, due in February",
+        "body":"<p>Singer-songwriter and harpist Joanna Newsom has revealed the first details of her third album, the follow-up to 2006's acclaimed orchestral opus Ys. Now unveiled as a triple LP, Have One On Me will be released internationally on 23 February.</p><p>Despite her youth (she is just 28), and her home in hippie-dippy breezy California, Newsom is notorious for her meticulous compositions and conspicuous virtuosity \u2013 instrumental, lyrical and conceptual. On Ys, she sang intricate narratives of longing and loss, bolstered by arrangements by Van Dyke Parks. Her 2007 EP, Joanna Newsom and the Ys Street Band, took an early song, Clam, Crab, Cockle, Cowrie, and added more elaborate instrumentation.</p><p>Yesterday, Newsom released the first official sample of Have One On Me, a track called '81. It is <a href=\"http://www.dragcity.com/\" title=\"streaming now\">streaming now</a> at the website of US label Drag City. The track has Newsom performing solo with harp, singing a serious story about love and trust in the Garden of Eden. Her voice has mellowed, sounding more conventionally pretty. '81's melody is brambled, shifting, and not meant for humming.</p><p>Of course, three LPs requires a lot of material. '81 might not be a long track but Newsom has played many new tunes at recent concerts, several of them epic. Though the tracklist for Have One On Me has yet to be released, there's much talk of songs like Jack Rabbits, Soft As Chalk, and Esme. The new album, <a href=\"http://www.abc.net.au/triplej/zan/blog/s2797475.htm\" title=\"Newsom reportedly told Australian radio\">Newsom reportedly told Australian radio</a>, is a \"cross\" between her first and second records.</p><p>Newsom has also <a href=\"http://www.dragcity.com/products/have-one-on-me\" title=\"released the cover art\">released the cover art</a> for Have One On Me, which has little in common with the old-fashioned portraiture of Ys. Plain black, with a rather kitschy art deco font, the cover is evocative of a mid-1990s underground dance record. Perhaps there will be a Tony Di Bart remix.</p><div class=\"gu_advert\">\n      <a href=\"http://oas.guardian.co.uk/RealMedia/ads/click_nx.ads/guardianapis.com/music/oas.html/@Bottom\">\n          <img src=\"http://oas.guardian.co.uk/RealMedia/ads/adstream_nx.ads/guardianapis.com/music/oas.html/@Bottom\" alt=\"Ads by The Guardian\"></img>\n      </a>\n    </div><img alt='' src='http://hits.guardian.co.uk/b/ss/guardiangu-apidev/1/H.20.3/98867?ns=guardian&pageName=Joanna+Newsom+announces+triple+album+Article+1342538&ch=Music&c2=&c4=Joanna+Newsom%2CFolk+music+%28Music+genre%29%2CPop+and+rock+%28Music+genre%29%2CMusic%2CCulture&c3=guardian.co.uk&c6=Sean+Michaels&c7=10-Jan-27&c8=1342538&c9=Article' width='1' height='1' /><!-- Guardian Watermark: music/2010/jan/27/joanna-newsom-announces-triple-album|2010-09-17T13:10:54+01:00|30552584881716ba2d4209ac7099eee3315f44a1 -->",
+        "shortUrl":"http://gu.com/p/2e5gh",
+        "standfirst":"The hippie-dippy harpist has unveiled the first track from her three-album set, Have One On Me, due in February",
+        "thumbnail":"http://static.guim.co.uk/sys-images/Music/Pix/pictures/2010/1/27/1264587039875/Joanna-Newsom-004.jpg",
+        "byline":"Sean Michaels",
+        "publication":"guardian.co.uk"
+      }
+    }]
+  }
+}

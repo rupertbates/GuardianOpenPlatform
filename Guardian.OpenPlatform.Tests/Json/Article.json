@@ -1,0 +1,100 @@
+{
+  "response":{
+    "status":"ok",
+    "userTier":"partner",
+    "total":1,
+    "content":{
+      "id":"tv-and-radio/2010/apr/10/charlie-brooker-mad-men-screenburn",
+      "sectionId":"tv-and-radio",
+      "sectionName":"Television &amp; radio",
+      "webPublicationDate":"2010-04-10T00:12:14+01:00",
+      "webTitle":"Charlie Brooker's screen burn",
+      "webUrl":"http://www.guardian.co.uk/tv-and-radio/2010/apr/10/charlie-brooker-mad-men-screenburn",
+      "apiUrl":"http://content.guardianapis.com/tv-and-radio/2010/apr/10/charlie-brooker-mad-men-screenburn",
+      "fields":{
+        "headline":"Charlie Brooker's screen burn",
+        "trailText":"<p>This week Charlie's been watching the end of season three of Mad Men, and pondering how many body parts he'd be willing to lose to get a peek at season four</p>",
+        "body":"<p><strong>Mad Men (Wed, 10pm, BBC4)</strong> is one of those rare shows you just don't want to end. Thankfully its pace is so languid, it almost doesn't start, let alone finish. 85% of each episode consists of Don Draper staring into the middle distance through a veil of cigarette smoke. Sometimes so little appears to be happening, you have to fight the urge to get up and slap your TV to make the characters start moving again. Hypnotic visuals, lingering pace: Mad Men is television's very own lava lamp. I'm exaggerating, of course, as anyone who's been absorbing the show on a season-by-season basis will attest. And I use the word \"absorb\" deliberately: you don't really \"watch\" Mad Men: you lie back and let it seep into you. It works by osmosis.</p><p>David Simon once explained The Wire's deliberate refusal to decode cop jargon and street lingo was a conscious ploy to force the viewer to \"lean in\"; to make an effort, to engage, to pay close attention to the dialogue. Mad Men plays things differently. It makes the viewer lean back. The programme's glacial tempo is startlingly alien to the average modern viewer, accustomed to meaningless televisual lightshows such as CSI Miami \u2013 all winking lights and trick shots and musical montages telling you what to think with such detached efficiency they might as well issue a bullet-pointed list of plot points and moods and have done with it. Shows in which the story is secondary to the edit, edit, edit: where any sense of meaning or even authentic emotion is doomed to death by a million tiny cuts. Mad Men's tranquility and poise makes it resemble a still photograph by comparison. The viewer has to calm the fuck down to even start appreciating it.</p><p>But the notion that nothing happens in Mad Men is bullshit. Every scene has a pay-off; every line has momentum. But like life, it's often not clear in the moment quite what the direction is. Go back and watch a season again from beginning to end and the trajectories are startlingly clear. Even moments which appeared entirely aimless are suddenly sodden with purpose. There's constant churning activity \u2013 but it's largely happening inside the characters' heads. Everyone in Mad Men hides a secret, often a driving force they're scarcely aware of themselves. They don't know who they are or what they want. Unlike many characters in TV drama, they don't verbally telegraph their motivations: in fact they couldn't if they tried. This is what gives the series such a steady pull: there's a mystery at the core of every character, and they're trying to solve it at the same time as the viewer.</p><p>If you've been following the third series \u2013 and if you haven't, stop reading now and go rent the boxset, and LOOK AWAY NOW because I'm about to start coughing out minor spoilers \u2013 Don Draper's gradual disintegration this year has been fascinating to behold. It's a measure of how composed he usually appears \u2013 sailing through countless pitch meetings and illicit legovers like some kind of Brylcreemed, priapic luxury cruise liner \u2013 that the sight of him nervously fumbling the act of lighting a cigarette in his kitchen has provided one of the most startling single images of the season. His perpetual adultery suddenly looks less like the devilish behaviour of a rogue who just can't help himself, and more like the desperate flailings of a sad, confused human shell whose mojo is deserting him.</p><p>This week's season finale answers the question of whether he'll get it back or not, and it's one of the most electrifying hours of TV I've seen in a long time. By the time the credits roll you'll be craving season four like a starving bear craves meat. You can gauge how addicted to Mad Men you are by working out how much of your body you'd be prepared to slice off, fry and eat in exchange for a five-minute sneak preview of the next season. I'm currently standing at one little finger, which might not sound like much. But if pushed I could raise it to a thumb. A thumb, goddamit. Mad Men really is that fantastic.</p><!-- Guardian Watermark: tv-and-radio/2010/apr/10/charlie-brooker-mad-men-screenburn|2010-09-17T15:55:30+01:00|3869266db04b384edddd5cf07849cef87f21c9f5 -->",
+        "shortUrl":"http://gu.com/p/2g5zg",
+        "standfirst":"This week Charlie's been watching the end of season three of Mad Men, and pondering how many body parts he'd be willing to lose to get a peek at season four",
+        "thumbnail":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/4/7/1270644673763/MAD-MEN-005.jpg",
+        "byline":"Charlie Brooker",
+        "publication":"guardian.co.uk"
+      },
+      "tags":[{
+        "id":"culture/series/screenburn",
+        "type":"series",
+        "webTitle":"Screen burn",
+        "webUrl":"http://www.guardian.co.uk/culture/series/screenburn",
+        "apiUrl":"http://content.guardianapis.com/culture/series/screenburn",
+        "sectionId":"tv-and-radio",
+        "sectionName":"Television &amp; radio"
+      },{
+        "id":"culture/television",
+        "type":"keyword",
+        "webTitle":"Television",
+        "webUrl":"http://www.guardian.co.uk/culture/television",
+        "apiUrl":"http://content.guardianapis.com/culture/television",
+        "sectionId":"tv-and-radio",
+        "sectionName":"Television &amp; radio"
+      },{
+        "id":"tv-and-radio/tv-and-radio",
+        "type":"keyword",
+        "webTitle":"Television & radio",
+        "webUrl":"http://www.guardian.co.uk/tv-and-radio/tv-and-radio",
+        "apiUrl":"http://content.guardianapis.com/tv-and-radio/tv-and-radio",
+        "sectionId":"tv-and-radio",
+        "sectionName":"Television &amp; radio"
+      },{
+        "id":"culture/culture",
+        "type":"keyword",
+        "webTitle":"Culture",
+        "webUrl":"http://www.guardian.co.uk/culture/culture",
+        "apiUrl":"http://content.guardianapis.com/culture/culture",
+        "sectionId":"culture",
+        "sectionName":"Culture"
+      },{
+        "id":"profile/charliebrooker",
+        "type":"contributor",
+        "webTitle":"Charlie Brooker",
+        "webUrl":"http://www.guardian.co.uk/profile/charliebrooker",
+        "apiUrl":"http://content.guardianapis.com/profile/charliebrooker"
+      },{
+        "id":"tone/features",
+        "type":"tone",
+        "webTitle":"Features",
+        "webUrl":"http://www.guardian.co.uk/tone/features",
+        "apiUrl":"http://content.guardianapis.com/tone/features"
+      },{
+        "id":"tv-and-radio/mad-men-tv-series",
+        "type":"keyword",
+        "webTitle":"Mad Men",
+        "webUrl":"http://www.guardian.co.uk/tv-and-radio/mad-men-tv-series",
+        "apiUrl":"http://content.guardianapis.com/tv-and-radio/mad-men-tv-series",
+        "sectionId":"tv-and-radio",
+        "sectionName":"Television &amp; radio"
+      },{
+        "id":"type/article",
+        "type":"type",
+        "webTitle":"Article",
+        "webUrl":"http://www.guardian.co.uk/articles",
+        "apiUrl":"http://content.guardianapis.com/articles"
+      }],
+      "mediaAssets":[{
+        "type":"picture",
+        "rel":"body",
+        "index":1,
+        "file":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/4/7/1270644669722/MAD-MEN-001.jpg",
+        "fields":{
+          "source":"AMC",
+          "photographer":" 2009 Frank Ockenfels/AMC/Lionsgate/BBC",
+          "height":"276",
+          "credit":" 2009 Frank Ockenfels/AMC/Lionsgate/BBC/AMC",
+          "altText":"MAD MEN",
+          "caption":"Don turn around: Jon Hamm as the incomparable Don Draper.",
+          "width":"460"
+        }
+      }]
+    }
+  }
+}

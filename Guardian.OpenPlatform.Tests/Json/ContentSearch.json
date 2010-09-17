@@ -1,0 +1,683 @@
+{
+  "response":{
+    "status":"ok",
+    "userTier":"partner",
+    "total":20,
+    "startIndex":1,
+    "pageSize":10,
+    "currentPage":1,
+    "pages":2,
+    "orderBy":"relevance",
+    "results":[{
+      "id":"music/2004/jun/17/popandrock",
+      "sectionId":"music",
+      "sectionName":"Music",
+      "webPublicationDate":"2004-06-17T02:51:25+01:00",
+      "webTitle":"Nina Nastasia, Arches, Glasgow",
+      "webUrl":"http://www.guardian.co.uk/music/2004/jun/17/popandrock",
+      "apiUrl":"http://content.guardianapis.com/music/2004/jun/17/popandrock",
+      "fields":{
+        "headline":"Nina Nastasia",
+        "trailText":"<p>Arches, Glasgow</p>",
+        "body":"<p>World music may have colonised Radio 3, but despite its avowed radicalism (and Paul Simon's best efforts) rock has proved largely resistant to its varied influences. Which makes Nina Nastasia's current tour, in which the US singer is joined by two musicians from Tuva (next to Mongolia) heartening indeed.  </p><p>Then again, Nastasia hardly makes conventional pop. Her three albums, recorded by Nirvana producer Steve Albini and praised to the rafters by John Peel, are musically spare and emotionally intense affairs with a heavy country influence. Tonight, she stands centre-stage, her hair tightly bundled and her hips swaying slightly, presiding over an impressively rapt audience. When, three songs in, drummer Jim White finally swaps his brushes for sticks and kicks his kit into life, it feels like a glacier has broken.  </p><p>It's an absorbing spectacle, with Nastasia's insistent guitar lines and tales of obsession, inertia and heartbreak underpinned and disrupted by a fine backing band that includes Joshua Carlebach on accordion and Dylan Willemsa on viola.  </p><p>Multi-instrumentalists Kaigal-ool Khovalyg and Sayan Bapa arrive after the break, and turn out to be two short men in black with moustaches, equipped with igils (horse-hair cellos) and doshpuluurs (long-necked lutes). Their presence is not always as significant as you might expect - many of Nastasia's arrangements remain unchanged, and often they act like an unobtrusive string section.  </p><p>At times, though, the cumulative effect is staggering: Khovalyg and Bapa are experienced throat-singers and, while Nastasia sings of easy chairs and freeways, their voices lift and dive from eerie whine to reedy burr. It's a thrilling moment, and one whose incongruity is only fleeting: traditions meet, and are melded.  </p><p>Nastasia ends the gig, alone, with an encore whose high point is Rosemary, an achingly bare tale of love and loss. You can almost feel the lump rising in the audience's collective throat, before she backs off from the mic and exits without a backward glance.   </p><p><strong>&#183;</strong> At St George's, Bristol (0117-923 0359), tonight, then touring.</p><!-- Guardian Watermark: music/2004/jun/17/popandrock|2010-09-17T15:46:48+01:00|fb1253f2cf760390789c15e66a3a6301a97385c8 -->",
+        "strap":"Pop",
+        "shortUrl":"http://gu.com/p/xt6yt",
+        "standfirst":"Arches, Glasgow",
+        "byline":"James Smart",
+        "publication":"guardian.co.uk"
+      },
+      "tags":[{
+        "id":"music/music",
+        "type":"keyword",
+        "webTitle":"Music",
+        "webUrl":"http://www.guardian.co.uk/music/music",
+        "apiUrl":"http://content.guardianapis.com/music/music",
+        "sectionId":"music",
+        "sectionName":"Music"
+      },{
+        "id":"music/popandrock",
+        "type":"keyword",
+        "webTitle":"Pop and rock",
+        "webUrl":"http://www.guardian.co.uk/music/popandrock",
+        "apiUrl":"http://content.guardianapis.com/music/popandrock",
+        "sectionId":"music",
+        "sectionName":"Music"
+      },{
+        "id":"tone/livereview",
+        "type":"tone",
+        "webTitle":"Live music reviews",
+        "webUrl":"http://www.guardian.co.uk/tone/livereview",
+        "apiUrl":"http://content.guardianapis.com/tone/livereview"
+      },{
+        "id":"tone/reviews",
+        "type":"tone",
+        "webTitle":"Reviews",
+        "webUrl":"http://www.guardian.co.uk/tone/reviews",
+        "apiUrl":"http://content.guardianapis.com/tone/reviews"
+      },{
+        "id":"profile/jamessmart",
+        "type":"contributor",
+        "webTitle":"James Smart",
+        "webUrl":"http://www.guardian.co.uk/profile/jamessmart",
+        "apiUrl":"http://content.guardianapis.com/profile/jamessmart"
+      },{
+        "id":"culture/culture",
+        "type":"keyword",
+        "webTitle":"Culture",
+        "webUrl":"http://www.guardian.co.uk/culture/culture",
+        "apiUrl":"http://content.guardianapis.com/culture/culture",
+        "sectionId":"culture",
+        "sectionName":"Culture"
+      },{
+        "id":"type/article",
+        "type":"type",
+        "webTitle":"Article",
+        "webUrl":"http://www.guardian.co.uk/articles",
+        "apiUrl":"http://content.guardianapis.com/articles"
+      }]
+    },{
+      "id":"music/2003/jun/20/artsfeatures.popandrock",
+      "sectionId":"music",
+      "sectionName":"Music",
+      "webPublicationDate":"2003-06-20T02:18:04+01:00",
+      "webTitle":"Nina Nastasia Purcell Room, London",
+      "webUrl":"http://www.guardian.co.uk/music/2003/jun/20/artsfeatures.popandrock",
+      "apiUrl":"http://content.guardianapis.com/music/2003/jun/20/artsfeatures.popandrock",
+      "fields":{
+        "headline":"Nina Nastasia",
+        "trailText":"<p>Purcell Room, London</p>",
+        "body":"<p>Nina Nastasia makes delicate songs with unexpected, unnerving strength, wrapping traditional instruments around stark, contemporary themes. Indulging in chat is another matter. \"I don't think I'm gonna do a whole lot of talking, because I tend to insult people without meaning it,\" she explains. \"So, if I insult anyone, I mean it.\" </p><p>Craving and exploring intimacy is Nastasia's speciality. Her successful second album, The Blackened Heart, forced her country-tinged tales of love, death, secrets and lies out of their cult niche. Her new album, Run to Ruin, is more eloquent and elegant, feeding off the nastiness of relationships with both a childlike innocence and adult perspective.  </p><p>Despite hailing from Hollywood, Nastasia is no typical Californian girl. She is a severe apparition in her black top and grey skirt, looking a bit like Frida Kahlo in mourning. But she shares the light touch and heart-rending simplicity of Suzanne Vega, adding a soft, folky hum and gentle twang to the emotional maelstrom within her sparse songs.  </p><p>Watching her band is like glimpsing an affectionate family, with Nastasia the gentle but disciplined matriarch. Stephen Day's cello moans as Dave Richards's bass intrudes on its sadness on I Say That I Will Go, Richards rocking the bass back and forth as a spinning symphony of discordant violin and agile drums, brushed by the elastic-wristed Jim White, whirl around Joshua Carlebach's accordion. Nastasia, as much voyeur as participant, watches silently, the still heart of the passionate chaos.  </p><p>You Her and Me, a tale of a day at the seaside gone horribly wrong, has Nastasia dropping the disenchanted good-girl act for a moment. \"Hate her like nobody knows,\" she spits. She is only a little more powerful when she's spiteful than when she's sublime.   </p><p><strong>&#183;</strong> Nina Nastasia plays Barfly, Glasgow (0141-221 0414), tonight, then tours.</p><!-- Guardian Watermark: music/2003/jun/20/artsfeatures.popandrock|2010-09-17T15:46:48+01:00|8ea3eabf4f63bbef5f9a507b10548567ceb0c605 -->",
+        "strap":"Pop",
+        "shortUrl":"http://gu.com/p/xt22c",
+        "standfirst":"Purcell Room, London",
+        "byline":"Betty Clarke",
+        "publication":"guardian.co.uk"
+      },
+      "tags":[{
+        "id":"music/music",
+        "type":"keyword",
+        "webTitle":"Music",
+        "webUrl":"http://www.guardian.co.uk/music/music",
+        "apiUrl":"http://content.guardianapis.com/music/music",
+        "sectionId":"music",
+        "sectionName":"Music"
+      },{
+        "id":"music/popandrock",
+        "type":"keyword",
+        "webTitle":"Pop and rock",
+        "webUrl":"http://www.guardian.co.uk/music/popandrock",
+        "apiUrl":"http://content.guardianapis.com/music/popandrock",
+        "sectionId":"music",
+        "sectionName":"Music"
+      },{
+        "id":"tone/livereview",
+        "type":"tone",
+        "webTitle":"Live music reviews",
+        "webUrl":"http://www.guardian.co.uk/tone/livereview",
+        "apiUrl":"http://content.guardianapis.com/tone/livereview"
+      },{
+        "id":"tone/reviews",
+        "type":"tone",
+        "webTitle":"Reviews",
+        "webUrl":"http://www.guardian.co.uk/tone/reviews",
+        "apiUrl":"http://content.guardianapis.com/tone/reviews"
+      },{
+        "id":"culture/culture",
+        "type":"keyword",
+        "webTitle":"Culture",
+        "webUrl":"http://www.guardian.co.uk/culture/culture",
+        "apiUrl":"http://content.guardianapis.com/culture/culture",
+        "sectionId":"culture",
+        "sectionName":"Culture"
+      },{
+        "id":"type/article",
+        "type":"type",
+        "webTitle":"Article",
+        "webUrl":"http://www.guardian.co.uk/articles",
+        "apiUrl":"http://content.guardianapis.com/articles"
+      },{
+        "id":"profile/bettyclarke",
+        "type":"contributor",
+        "webTitle":"Betty Clarke",
+        "webUrl":"http://www.guardian.co.uk/profile/bettyclarke",
+        "apiUrl":"http://content.guardianapis.com/profile/bettyclarke"
+      }]
+    },{
+      "id":"music/2008/jan/07/theplaylist",
+      "sectionId":"music",
+      "sectionName":"Music",
+      "webPublicationDate":"2008-01-07T16:39:34Z",
+      "webTitle":"Maxïmo Park's auld lang songs",
+      "webUrl":"http://www.guardian.co.uk/music/2008/jan/07/theplaylist",
+      "apiUrl":"http://content.guardianapis.com/music/2008/jan/07/theplaylist",
+      "fields":{
+        "headline":"Maxïmo Park's auld lang songs",
+        "trailText":"<p><strong>The Playlist:</strong> For the first 2008 edition of the Playlist, frontman Paul Smith looks back at some of his favourite songs of 2007 from artists like Nina Nastasia, the National and Feist</p>",
+        "body":"<p>Why Don't you Stay Home? Nina Nastasia and Jim White</p><p>Nina Nastasia is an American folk singer who has just finished working on an album with Jim White called You Follow Me. It was produced by Steve Albini, who is famous for working with the Pixies and Nirvana. What Albini does really well is bring out all the intricate qualities of a song's composition. Nastasia's music is quite quiet and soft, but you can hear everything because he mics up every instrument when it is recorded. It brings out the beauty of the music without making it sound overproduced. <br /> <a href=\"http://clkuk.tradedoubler.com/click?p=23708&amp;a=1248044&amp;url=http%3A%2F%2Fphobos.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewAlbum%3Fi%3D181284773%26id%3D181284513%26s%3D143444%26partnerId%3D2003\">Click to buy from iTunes.</a></p><p><strong>Slow Show, The National</strong></p><p>I tired to pick these songs regardless of the quality of the album they came from, but the National's Boxer album on which this song appears was one of my favourites of the year. They're such a great band because nobody is showing off, it's all about the overall output of the songs. And they're content to let things roll along - they're not chasing being a bigger act than they are. The lyrics get buried in the mix in a good way, so that when you finally hear them properly, they make you catch your breath. When he sings \"You know I dreamed about you for twenty-nine years before I saw you,\" this song kind of drops and you really hear the meaning properly for the first time. <br /><a href=\"http://clkuk.tradedoubler.com/click?p=23708&amp;a=1248044&amp;url=http%3A%2F%2Fphobos.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewAlbum%3Fi%3D220313212%26id%3D220311706%26s%3D143444%26partnerId%3D2003\">Click here to buy from iTunes.</a></p><p><strong>Waxwing, Alasdair Roberts</strong></p><p>What I like about Roberts is that his fingerpicking style is very British; he has a very traditional way of playing folk music. And it works really well with his voice, which is unbelievable pure. I've heard him play live with Joanna Newsom and I honestly thought his voice was going to break at points, but it never does. His earlier work was quite willfully spooky, but this year his music has had a certain warmth, a sort of humanity to it that I find very compelling. <br /><a href=\"http://clkuk.tradedoubler.com/click?p=23708&amp;a=1248044&amp;url=http%3A%2F%2Fphobos.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewAlbum%3Fi%3D212383439%26id%3D212383116%26s%3D143444%26partnerId%3D2003\">Click here to buy from iTunes.</a></p><p><strong>Marry Me, St Vincent</strong></p><p>I find Annie Clark to be a very talented woman. There are so many nooks and crannies to her music that it's possible to get lost in, so many detours. But what struck me about this song was how simple it is, how she tears it down and just sings \"Marry me John, marry me.\" And you think, \"What's this guy missing out on?\" <br /><a href=\"http://clkuk.tradedoubler.com/click?p=23708&amp;a=1248044&amp;url=http%3A%2F%2Fphobos.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewAlbum%3Fi%3D257529305%26id%3D257528916%26s%3D143444%26partnerId%3D2003\">Click to buy from iTunes.</a></p><p><strong>Arthur Russell, Lucky Cloud</strong></p><p>I was pootling about on MySpace and I came across this guy Matt Wolf, who is making a documentary about Arthur Russell. It reminded me how much I love this song Lucky Cloud, which was reissued this year. Genius is bandied about too much in music, but Russell is probably one of the few musicians who truly was a card-carrying monk. He was an astonishing character. When he was training to be a Buddhist monk, he had to abandon all possessions but couldn't bring himself to part with his cello, so he hid it in a cupboard and would sneak in there to play it! This song is on my MySpace profile. <br /><a href=\"http://clkuk.tradedoubler.com/click?p=23708&amp;a=1248044&amp;url=http%3A%2F%2Fphobos.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewAlbum%3Fi%3D41500992%26id%3D41501006%26s%3D143444%26partnerId%3D2003\">Click to buy from iTunes.</a></p><p><strong>Brandy Alexander, Feist</strong></p><p>This is such a subtle song, it reminds me of the George Gershwin songs of the 20s and 30s. That kind of popular song, the kind that wanted to be witty and coy. The way she uses Brandy Alexander as a metaphor for a man, it's such a smart little song. And like brandy, it slips down nicely. <br /><a href=\"http://clkuk.tradedoubler.com/click?p=23708&amp;a=1248044&amp;url=http%3A%2F%2Fphobos.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewAlbum%3Fi%3D220155479%26id%3D220155357%26s%3D143444%26partnerId%3D2003\">Click here to buy from iTunes.</a></p><p><strong>Love's Got A Lot To Answer For, Nick Lowe</strong></p><p>Lowe is a very underrated talent. Like the Feist song, there's no trickery to why this one is good: it's just well written and considered. With new music, I sometimes feel like there's an emperor's new clothes quality to it; you're told it's brilliant, but it's gimmicky or insubstantial. Not with Lowe. If you listen to this song and you have feelings, it's hard not to be taken away by him. <br /><a href=\"http://clkuk.tradedoubler.com/click?p=23708&amp;a=1248044&amp;url=http%3A%2F%2Fphobos.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewAlbum%3Fi%3D252735516%26id%3D252734151%26s%3D143444%26partnerId%3D2003\">Click here to buy from iTunes.</a></p><p>&#183; Maximo Park are promoting &lt;a href=\"Maximo Park are currently promoting walkmanproject.com - a new interactive site which lets you collaborate with musical talent from across the world, by mixing up different musical components to create your very own multi-instrumental track, which you can then download for free.\"</p><p>Maximo Park are promoting <a href=\"http://www.walkmanproject.com\">walkmanproject.com</a> - mix up different musical components to create your own track, and then download it for free. </p><p>As told to Rosie Swash</p><!-- Guardian Watermark: music/2008/jan/07/theplaylist|2010-09-17T15:46:48+01:00|b3b41a5b0a4a4f9ffee1dbf2e92e9d2730812107 -->",
+        "shortUrl":"http://gu.com/p/xkd8e",
+        "standfirst":"For the first 2008 edition of the Playlist, frontman Paul Smith looks back at some of his favourite songs of 2007 from artists like Nina Nastasia, the National and Feist",
+        "publication":"guardian.co.uk"
+      },
+      "tags":[{
+        "id":"music/music",
+        "type":"keyword",
+        "webTitle":"Music",
+        "webUrl":"http://www.guardian.co.uk/music/music",
+        "apiUrl":"http://content.guardianapis.com/music/music",
+        "sectionId":"music",
+        "sectionName":"Music"
+      },{
+        "id":"culture/culture",
+        "type":"keyword",
+        "webTitle":"Culture",
+        "webUrl":"http://www.guardian.co.uk/culture/culture",
+        "apiUrl":"http://content.guardianapis.com/culture/culture",
+        "sectionId":"culture",
+        "sectionName":"Culture"
+      },{
+        "id":"music/series/theplaylist",
+        "type":"series",
+        "webTitle":"Playlist",
+        "webUrl":"http://www.guardian.co.uk/music/series/theplaylist",
+        "apiUrl":"http://content.guardianapis.com/music/series/theplaylist",
+        "sectionId":"music",
+        "sectionName":"Music"
+      },{
+        "id":"music/the-national",
+        "type":"keyword",
+        "webTitle":"The National",
+        "webUrl":"http://www.guardian.co.uk/music/the-national",
+        "apiUrl":"http://content.guardianapis.com/music/the-national",
+        "sectionId":"music",
+        "sectionName":"Music"
+      },{
+        "id":"type/article",
+        "type":"type",
+        "webTitle":"Article",
+        "webUrl":"http://www.guardian.co.uk/articles",
+        "apiUrl":"http://content.guardianapis.com/articles"
+      }],
+      "mediaAssets":[{
+        "type":"picture",
+        "rel":"body",
+        "index":1,
+        "file":"http://static.guim.co.uk/sys-images/Music/Pix/pictures/2007/08/26/paulsmith_maximo_rdg_256.jpg",
+        "fields":{
+          "source":"PA",
+          "photographer":"Yui Mok",
+          "height":"256",
+          "credit":"Yui Mok/PA",
+          "altText":"Paul Smith of Maximo Park at Reading 2007",
+          "caption":"Maximo Park's bookish Paul Smith is a long way from the likes of Lindisfarne. Photograph: Yui Mok/PA",
+          "width":"128"
+        }
+      }]
+    },{
+      "id":"theobserver/2003/jun/08/features.review107",
+      "sectionId":"theobserver",
+      "sectionName":"From the Observer",
+      "webPublicationDate":"2003-06-08T00:38:13+01:00",
+      "webTitle":"Dark side of the tune",
+      "webUrl":"http://www.guardian.co.uk/theobserver/2003/jun/08/features.review107",
+      "apiUrl":"http://content.guardianapis.com/theobserver/2003/jun/08/features.review107",
+      "fields":{
+        "headline":"Dark side of the tune",
+        "trailText":"<p>Two women go beyond folk and country to chronicle a strange and unsettling America, says  <strong>Kitty Empire</strong>.</p>",
+        "body":"<p><strong>Gillian Welch</strong><br />  Soul Journey (Acony/WEA)  </p><p><strong>Nina Nastasia</strong><br />  Run To Ruin  (Touch &amp; Go)  </p><p>Gillian Welch and Nina Nastasia should need no introduction. Soon, they won't. 'Look at me, I am a superstar,' choruses the frail, awkward Nastasia blankly on 'Superstar', one of the woozy, folk-ish, faintly Gothic vignette-songs on  Run to Ruin, her third album.  </p><p>Clearly, she is nothing of the sort; having merely crept out of obscurity and into cult status with her last album,  The Blackened Air (and anyway, the 'I' in the song may well not be hers, either). 'Ain't one soul in the whole world knows my name,' observes Gillian Welch wryly, a woman whose contributions to the  O Brother Where Art Thou? soundtrack have issued from speakers in a million homes.   </p><p>It's strange to describe as 'new', artists on their third and fourth albums - especially when one is already a secret household name, and featured on BBC2's recent series on country music, The Lost Highway. But the voices of both Nastasia and Welch are finally emerging from the swollen chorus of alt. country and folk with these records, surpassing genre (and, yes, gender) to become chroniclers of a different, contemporary America, one lived in strange, unsuitable places, and above all, internally.  </p><p>Americana, of course, is usually associated with the South. The cowboy-hatted, ponytailed, honey-voiced Gillian Welch comes from a traditional bluegrass background and records in Nashville, and her records often have the easy cadences of country music. 'Oh me oh my oh,' begins  Soul Journey; two of its songs are traditionals ('I Had A Real Good Mother And Father', 'Make Me A Pallet On Your Floor'), and the instruments include mandolin, fiddle, and dobro. But it's not just a gingham landscape she sees. 'I ought to do right but not right now,' considers 'Look At Miss Ohio'.  </p><p>Looser and more personal than her albums to date,  Soul Journey lovingly considers Welch's own conception ('No One Knows My Name'), the impossibility of meaningfulness ('One Little Song') and of course, love and regret. It's a gorgeous record, closed by the surprisingly rocking, Dylan-derived lope, 'Wrecking Ball'.  </p><p>Of course, Gillian Welch actually grew up in LA, as did adopted New Yorker Nina Nastasia. It's hardly surprising that the City Of Angels should have sent both scurrying for more authentic sounds than that den of artifice could provide.   </p><p>It's no shock that Nastasia got the hell out, too, when you consider the thinly veiled purgatory of drug abuse and bad love that the stately, gypsy-ish songs on  Run To Ruin (don't) describe. 'You Her And Me' finds three people   in a car, making for the coast. An ambulance is called. It's not clear what goes on in 'We Never Talked', either ('We never talked about the thing that we witnessed') but you're left in no doubt of its minor key severity.   </p><p>For all her outsider cachet, Nastasia's voice actually recalls Suzanne Vega's (while her music is more Godspeed You Black Emperor-gone-coffeehouse).  </p><p>But it suits her songs: matter of fact, subdued in the face of travails that   somehow contrive to sound awesome and ancient, however sordid and modern they are. Riveting.</p><!-- Guardian Watermark: theobserver/2003/jun/08/features.review107|2010-09-17T15:46:48+01:00|bff14a883ca9d6a7bcb7ce972eaa01e91feca548 -->",
+        "shortUrl":"http://gu.com/p/xh36q",
+        "standfirst":"Two women go beyond folk and country to chronicle a strange and unsettling America, says  Kitty Empire",
+        "byline":"Kitty Empire",
+        "publication":"guardian.co.uk"
+      },
+      "tags":[{
+        "id":"culture/culture",
+        "type":"keyword",
+        "webTitle":"Culture",
+        "webUrl":"http://www.guardian.co.uk/culture/culture",
+        "apiUrl":"http://content.guardianapis.com/culture/culture",
+        "sectionId":"culture",
+        "sectionName":"Culture"
+      },{
+        "id":"profile/kittyempire",
+        "type":"contributor",
+        "webTitle":"Kitty Empire",
+        "webUrl":"http://www.guardian.co.uk/profile/kittyempire",
+        "apiUrl":"http://content.guardianapis.com/profile/kittyempire"
+      },{
+        "id":"type/article",
+        "type":"type",
+        "webTitle":"Article",
+        "webUrl":"http://www.guardian.co.uk/articles",
+        "apiUrl":"http://content.guardianapis.com/articles"
+      }]
+    },{
+      "id":"culture/2008/aug/24/festivals.folk",
+      "sectionId":"culture",
+      "sectionName":"Culture",
+      "webPublicationDate":"2008-08-24T00:01:00+01:00",
+      "webTitle":"Festival Watch: Green Man, Brecon Beacons, Wales",
+      "webUrl":"http://www.guardian.co.uk/culture/2008/aug/24/festivals.folk",
+      "apiUrl":"http://content.guardianapis.com/culture/2008/aug/24/festivals.folk",
+      "fields":{
+        "headline":"Festival Watch",
+        "trailText":"<p>Green Man, Brecon Beacons, Wales</p>",
+        "body":"<p><strong>Green Man </strong><br/>Brecon Beacons, Wales</p><p>Cradled in a beautiful valley, the Green Man festival is an indie-folk fairyland where antler-wearing Druids lead processions of children past wishing trees. Now in its sixth year, it has grown in maturity, just as its audience has increased, to around 10,000, yet it retains an aura of intimacy and independence of spirit. </p><p>Alela Diane and James Yorkston were Friday's main-stage highlights. Over in the Folkey Dokey tent, the Cave Singers won fans with their melodic guitar rock, while Lou Rhodes needed to lose a few in the Cafe, where she threatened to overload capacity. And despite Jason Pierce's aloofness, headliners Spiritualized played out the evening with a blistering blend of alt-rock and gospel.</p><p>Picture-perfect Glanusk Park became a quagmire by Saturday, when Devon Sproule brightened spirits with an energetic cover of Neil Young's 'Don't Let It Bring You Down'. The enduring songs of Richard Thompson were another highlight. By the time Super Furry Animals took to the stage on their home turf, the rain let up, allowing their zestful show to delight a massive crowd. Jazz-folk pioneers Pentangle headlined on Sunday, but Green Man's strength lay further down the bill - with an enthralling Laura Marling, uptempo alt-pop from Cardiff's Los Campesinos! and a mesmerising set from New York's Nina Nastasia.</p><p><strong>Best performance</strong> Nina Nastasia.</p><p><strong>Overheard</strong> 'Please keep off the dam.'</p><p><strong>Best discovery</strong> Beth Jeans Houghton.</p><p><strong></strong></p><!-- Guardian Watermark: culture/2008/aug/24/festivals.folk|2010-09-17T15:46:48+01:00|d29f0ba105d547d4b5d5e961070a884078e0e3d1 -->",
+        "shortUrl":"http://gu.com/p/xptfc",
+        "standfirst":"Sound of the summer",
+        "byline":"Tamzin Lewis",
+        "publication":"guardian.co.uk"
+      },
+      "tags":[{
+        "id":"culture/festivals",
+        "type":"keyword",
+        "webTitle":"Festivals",
+        "webUrl":"http://www.guardian.co.uk/culture/festivals",
+        "apiUrl":"http://content.guardianapis.com/culture/festivals",
+        "sectionId":"culture",
+        "sectionName":"Culture"
+      },{
+        "id":"music/folk",
+        "type":"keyword",
+        "webTitle":"Folk music",
+        "webUrl":"http://www.guardian.co.uk/music/folk",
+        "apiUrl":"http://content.guardianapis.com/music/folk",
+        "sectionId":"music",
+        "sectionName":"Music"
+      },{
+        "id":"music/music",
+        "type":"keyword",
+        "webTitle":"Music",
+        "webUrl":"http://www.guardian.co.uk/music/music",
+        "apiUrl":"http://content.guardianapis.com/music/music",
+        "sectionId":"music",
+        "sectionName":"Music"
+      },{
+        "id":"culture/culture",
+        "type":"keyword",
+        "webTitle":"Culture",
+        "webUrl":"http://www.guardian.co.uk/culture/culture",
+        "apiUrl":"http://content.guardianapis.com/culture/culture",
+        "sectionId":"culture",
+        "sectionName":"Culture"
+      },{
+        "id":"type/article",
+        "type":"type",
+        "webTitle":"Article",
+        "webUrl":"http://www.guardian.co.uk/articles",
+        "apiUrl":"http://content.guardianapis.com/articles"
+      },{
+        "id":"tone/reviews",
+        "type":"tone",
+        "webTitle":"Reviews",
+        "webUrl":"http://www.guardian.co.uk/tone/reviews",
+        "apiUrl":"http://content.guardianapis.com/tone/reviews"
+      }]
+    },{
+      "id":"music/2005/feb/18/popandrock.shopping5",
+      "sectionId":"music",
+      "sectionName":"Music",
+      "webPublicationDate":"2005-02-18T01:19:11Z",
+      "webTitle":"CD: Boom Bip, Blue Eyed in the Red Room",
+      "webUrl":"http://www.guardian.co.uk/music/2005/feb/18/popandrock.shopping5",
+      "apiUrl":"http://content.guardianapis.com/music/2005/feb/18/popandrock.shopping5",
+      "fields":{
+        "headline":"Boom Bip, Blue Eyed in the Red Room",
+        "trailText":"<p>(Lex/Warp)  </p>",
+        "body":"<p>Although the work of a nominal hip-hop producer, there are neither samples nor rapping on Bryan Hollon's second solo album as Boom Bip. In fact, Blue Eyed in the Red Room is none of the things that such records often are: it's not overlong, portentously conceptualised or struggling under the weight of innumerable cameos. Instead, the 10 tracks here (including two guest vocals) find Hollon, who plays everything himself, capable of remarkable subtlety and a beguiling, organic musicality.</p><p>From addictively propulsive, melodic electro (The Move), to chiming, dystopic folk (Dumb Day), to the considerably stranger territory of Soft and Open, a kind of alien gamelan fantasy, Hollon binds wildly disparate elements into a dynamic, affecting whole. It's interesting, too, that both vocal tracks touch on articles of faith: Super Furry Animals singer Gruff Rhys seemingly bewildered by moral choices in the majestic, fretful chorale of Dos and Don'ts, while Nina Nastasia sets out a gospel of agnosticism in the brief, hazy closer The Matter (Of Our Discussion). Frequently magnificent, Blue Eyed in the Red Room offers up more with every listen.</p><!-- Guardian Watermark: music/2005/feb/18/popandrock.shopping5|2010-09-17T15:46:48+01:00|fed8a67a9657b9feecda50f837a02a20bd3a2c81 -->",
+        "strap":"Pop CD",
+        "shortUrl":"http://gu.com/p/xh8mt",
+        "standfirst":"(Lex/Warp)",
+        "byline":"David Peschek",
+        "publication":"guardian.co.uk"
+      },
+      "tags":[{
+        "id":"music/music",
+        "type":"keyword",
+        "webTitle":"Music",
+        "webUrl":"http://www.guardian.co.uk/music/music",
+        "apiUrl":"http://content.guardianapis.com/music/music",
+        "sectionId":"music",
+        "sectionName":"Music"
+      },{
+        "id":"music/popandrock",
+        "type":"keyword",
+        "webTitle":"Pop and rock",
+        "webUrl":"http://www.guardian.co.uk/music/popandrock",
+        "apiUrl":"http://content.guardianapis.com/music/popandrock",
+        "sectionId":"music",
+        "sectionName":"Music"
+      },{
+        "id":"tone/reviews",
+        "type":"tone",
+        "webTitle":"Reviews",
+        "webUrl":"http://www.guardian.co.uk/tone/reviews",
+        "apiUrl":"http://content.guardianapis.com/tone/reviews"
+      },{
+        "id":"profile/davidpeschek",
+        "type":"contributor",
+        "webTitle":"David Peschek",
+        "webUrl":"http://www.guardian.co.uk/profile/davidpeschek",
+        "apiUrl":"http://content.guardianapis.com/profile/davidpeschek"
+      },{
+        "id":"theguardian/theguardian",
+        "type":"keyword",
+        "webTitle":"The Guardian",
+        "webUrl":"http://www.guardian.co.uk/theguardian/theguardian",
+        "apiUrl":"http://content.guardianapis.com/theguardian/theguardian",
+        "sectionId":"theguardian",
+        "sectionName":"From the Guardian"
+      },{
+        "id":"culture/culture",
+        "type":"keyword",
+        "webTitle":"Culture",
+        "webUrl":"http://www.guardian.co.uk/culture/culture",
+        "apiUrl":"http://content.guardianapis.com/culture/culture",
+        "sectionId":"culture",
+        "sectionName":"Culture"
+      },{
+        "id":"tone/albumreview",
+        "type":"tone",
+        "webTitle":"Album reviews",
+        "webUrl":"http://www.guardian.co.uk/tone/albumreview",
+        "apiUrl":"http://content.guardianapis.com/tone/albumreview"
+      },{
+        "id":"type/article",
+        "type":"type",
+        "webTitle":"Article",
+        "webUrl":"http://www.guardian.co.uk/articles",
+        "apiUrl":"http://content.guardianapis.com/articles"
+      }],
+      "mediaAssets":[{
+        "type":"picture",
+        "rel":"body",
+        "index":1,
+        "file":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2005/02/17/boombip.jpg",
+        "fields":{
+          "source":"Amazon",
+          "height":"128",
+          "credit":"Amazon",
+          "altText":"Blue Eyed in the Red Room",
+          "width":"128"
+        }
+      }]
+    },{
+      "id":"music/2006/nov/18/popandrock",
+      "sectionId":"music",
+      "sectionName":"Music",
+      "webPublicationDate":"2006-11-18T14:16:34Z",
+      "webTitle":"This week's best gigs",
+      "webUrl":"http://www.guardian.co.uk/music/2006/nov/18/popandrock",
+      "apiUrl":"http://content.guardianapis.com/music/2006/nov/18/popandrock",
+      "fields":{
+        "headline":"This week's top picks",
+        "trailText":"<p>The best gigs across the country.</p>",
+        "body":"<p><strong>South</strong></p><p><strong>Espers </strong></p><p>Extremely spartan, yet beautifully melodic folk rock from this Philadelphian band. Go on now - party like it's 1599.</p><p><strong>&#183;</strong> Bristol, Sunday 19 &amp; London, Wednesday 22</p><p><strong>The Magic Numbers </strong></p><p>Mellow close harmonies from this experiment in facial hair. New album Those The Brokes follows an \"if it ain't broke...\" policy for the uncomplicated enjoyment of many.</p><p><strong>&#183;</strong> London, Saturday 18</p><p><strong>Primal Scream </strong></p><p>Bobby Gillespie's enduring band return with classic rock'n'roll remininscent of their Give Out But Don't Give Up LP of a decade ago. Our rocks are duly off.</p><p><strong>&#183;</strong> London, Friday 24</p><p><strong>Twisted Folk Tour </strong></p><p>Nina Nastasia brings the melancholic folky material, while the laughs are provided by the excellent Jeffrey Lewis. All good stuff. </p><p><strong>&#183;</strong> Bristol, Thursday 23</p><p><strong>Amy Winehouse </strong></p><p>The highly opinionated jazz-soul singer-songwriter touts material from her Back To Black album, including rousing recent single Rehab. </p><p><strong>&#183;</strong> Cambridge, Sunday 19; Bristol, Tuesday 21 &amp; London, Friday 24</p><p><strong>London</strong></p><p><strong>Acid Mothers Temple </strong></p><p>Japanese experimentalists bring extremely hairy psychedelic noise. Quality support comes from The Early Years, and their krautrock stylings.</p><p><strong>&#183;</strong> Corsica Studios, SE17, Sunday 19</p><p><strong>Espers </strong></p><p>Extremely spartan, yet beautifully melodic folk rock from this Philadelphian band. Go on now - party like it's 1599. Edith Frost offers support. </p><p><strong>&#183;</strong> Bush Hall, W12, Wednesday 22</p><p><strong>The Magic Numbers </strong></p><p>Mellow close harmonies from this experiment in facial hair. New album Those The Brokes takes the \"if it ain't broke...\" route. </p><p><strong>&#183;</strong> Carling Apollo Hammersmith, W6, Saturday 18</p><p><strong>Scritti Politti </strong></p><p>Green Gartside, hardly looking his 50 years, brings high quality soul-pop, slightly pared down from its original incarnation. Welcome back.</p><p><strong>&#183;</strong> Shepherd's Bush Empire, W12, Sunday 19</p><p><strong>Amy Winehouse </strong></p><p>The highly opinionated singer-songwriter touts the rousing soul of her latest single Rehab. Quality Bjork-like support comes from Bat For Lashes.</p><p><strong>&#183;</strong> Union Chapel, N1, Friday 24</p><p><strong>Central</strong></p><p><strong>The Aliens </strong></p><p>Former members of The Beta Band, accompanied by Lone Pigeon bring exuberant live show. Classic pop meets avant oddness in their mix.</p><p><strong>&#183;</strong> Stoke-on-Trent, Sunday 19 &amp; Nottingham, Wednesday 22</p><p><strong>Espers </strong></p><p>Extremely spartan, yet beautifully melodic folk rock from this Philadelphian band. Go on now - party like it's 1599.</p><p><strong>&#183;</strong> Bristol, Sunday 19</p><p><strong>The Killers </strong></p><p>Brandon Flowers returns with a band we discover has gone a bit more classic rock since he's been away. New album Sam's Town is duly awash in U2-style hugeness.</p><p><strong>&#183;</strong> Wolverhampton, Saturday 18</p><p><strong>Primal Scream </strong></p><p>Bobby Gillespie's enduring band return with classic rock'n'roll remininscent of their Give Out But Don't Give Up LP of a decade ago. Our rocks are duly off.</p><p><strong>&#183;</strong> Nottingham, Wednesday 22 &amp; London, Friday 24</p><p><strong>Twisted Folk Tour </strong></p><p>Nina Nastasia brings the melancholic folky material, while the laughs are provided by the excellent Jeffrey Lewis. All good stuff.</p><p><strong>&#183;</strong> Norwich, Wednesday 22; Bristol, Thursday 23 &amp; Coventry, Friday 24</p><p><strong>North</strong></p><p><strong>Primal Scream </strong></p><p>Bobby Gillespie's enduring band return with rock'n'roll remininscent of their Give Out But Don't Give Up LP of a decade ago. </p><p><strong>&#183;</strong> Manchester, Saturday 18 &amp; Sunday 19; Liverpool, Tuesday 21 &amp; London, Friday 24</p><p><strong>Twisted Folk Tour </strong></p><p>Nina Nastasia brings the melancholic folky material, while the laughs are provided by the excellent Jeffrey Lewis. All good stuff. </p><p><strong>&#183;</strong> Waterside Arts Centre, Sale, Sunday 19 &amp; Brudenell, Leeds, Monday 20</p><p><strong>Union Of Knives </strong></p><p>Moody bleeps and guitars from the Scottish three-piece, like Aphex Twin remixing Muse.</p><p><strong>&#183;</strong> Faversham, Leeds, Saturday 18; Barfly, Liverpool, Monday 20 &amp; Boardwalk, Sheffield, Tuesday 21</p><p><strong>Scotland and Ireland</strong></p><p><strong>Espers, St Jude's Infirmary </strong></p><p>Heading even further into woods musically, the former Philadelphia indie folkers bring out arcane medieval instruments amid their droney second LP.</p><p><strong>&#183;</strong> Cabaret Voltaire, Edinburgh, Monday 20</p><p><strong>Fionn Regan </strong></p><p>Chin-stroked diary-like lyrics, but wry too from the Dylan gone hobo-looking up and coming Dublin troubadour.</p><p><strong>&#183;</strong> Dolan's Warehouse, Limerick, Thursday 23 &amp; The Savoy, Cork, Friday 24</p><p><strong>Twisted Folk Tour </strong></p><p>Might not be flavour of the month any more, but who cares about that anyway when there's cartoon-flavoured Lewis, bluesy Whitmore and ballsy Nastasia on offer.</p><p><strong>&#183;</strong> ABC2, Glasgow, Tuesday 21</p><!-- Guardian Watermark: music/2006/nov/18/popandrock|2010-09-17T15:46:48+01:00|e9fdf9f4720530fe130cd3f1b36c538ffb39a937 -->",
+        "shortUrl":"http://gu.com/p/xttdf",
+        "standfirst":"The best gigs across the country",
+        "publication":"guardian.co.uk"
+      },
+      "tags":[{
+        "id":"music/popandrock",
+        "type":"keyword",
+        "webTitle":"Pop and rock",
+        "webUrl":"http://www.guardian.co.uk/music/popandrock",
+        "apiUrl":"http://content.guardianapis.com/music/popandrock",
+        "sectionId":"music",
+        "sectionName":"Music"
+      },{
+        "id":"music/music",
+        "type":"keyword",
+        "webTitle":"Music",
+        "webUrl":"http://www.guardian.co.uk/music/music",
+        "apiUrl":"http://content.guardianapis.com/music/music",
+        "sectionId":"music",
+        "sectionName":"Music"
+      },{
+        "id":"tone/livereview",
+        "type":"tone",
+        "webTitle":"Live music reviews",
+        "webUrl":"http://www.guardian.co.uk/tone/livereview",
+        "apiUrl":"http://content.guardianapis.com/tone/livereview"
+      },{
+        "id":"tone/reviews",
+        "type":"tone",
+        "webTitle":"Reviews",
+        "webUrl":"http://www.guardian.co.uk/tone/reviews",
+        "apiUrl":"http://content.guardianapis.com/tone/reviews"
+      },{
+        "id":"culture/culture",
+        "type":"keyword",
+        "webTitle":"Culture",
+        "webUrl":"http://www.guardian.co.uk/culture/culture",
+        "apiUrl":"http://content.guardianapis.com/culture/culture",
+        "sectionId":"culture",
+        "sectionName":"Culture"
+      },{
+        "id":"type/article",
+        "type":"type",
+        "webTitle":"Article",
+        "webUrl":"http://www.guardian.co.uk/articles",
+        "apiUrl":"http://content.guardianapis.com/articles"
+      }]
+    },{
+      "id":"music/2006/nov/25/popandrock",
+      "sectionId":"music",
+      "sectionName":"Music",
+      "webPublicationDate":"2006-11-25T23:55:16Z",
+      "webTitle":"This week's best gigs",
+      "webUrl":"http://www.guardian.co.uk/music/2006/nov/25/popandrock",
+      "apiUrl":"http://content.guardianapis.com/music/2006/nov/25/popandrock",
+      "fields":{
+        "headline":"This week's top picks",
+        "trailText":"<p>The best gigs across the country.</p>",
+        "body":"<p><strong>South</strong></p><p><strong>The Blood Arm</strong></p><p>Los Angeles band, essentially Franz Ferdinand with keyboards, bring the ruckus and some occasionally saucy rock. </p><p><strong>&#183;</strong> <a href=\"http://www.thelouisiana.net\">Bristol</a>, Sunday 26 &amp; <a href=\"http://www.brunelrooms.com\">Swindon</a>, Friday 1</p><p><strong>The Killers </strong></p><p>Brandon Flowers returns to lead the Las Vegas synth-rockers. Former anglophile material now superseded by Springsteen-aping rock of new LP Sam's Town.<br /> \n<strong>&#183;</strong> <a href=\"http://www.brixton-academy.co.uk\">London</a>, Sunday 26 to Tuesday 28</p><p><strong>Primal Scream </strong></p><p>Bobby Gillespie leads the revolutionary rockers, now returned to the rocking template. </p><p><strong>&#183;</strong> Cambridge, Monday 27; Bristol, Tuesday 28; Southampton, Wednesday 29 &amp; London, Friday 1</p><p><strong>The Rumble Strips </strong></p><p>Charlie Waller leads the anthemic, Dexy's-like charge of this London band. New single, Oh Creole, illustrates some of their soul power. </p><p><strong>&#183;</strong> London, Saturday 25; Southampton, Tuesday 28 &amp; Bath, Thursday 30</p><p><strong>Twisted Folk Tour </strong></p><p>Nina Nastasia touts recent Steve Albini-produced album. New Yorker Jeffrey Lewis provides quality joke-folk. </p><p><strong>&#183;</strong> Cambridge, Sunday 26; Leicester, Monday 27; London, Tuesday 28 &amp; Brighton, Wednesday 28</p><p><strong>London</strong></p><p><strong>Richard Hawley </strong></p><p>The Sheffield-based crooner brings the sumptuous-sounding material of his recent album Coles Corner. Feel the quality. </p><p><strong>&#183;</strong> <a href=\"http://www.shepherds-bush-empire.co.uk\">Shepherd's Bush Empire, W12</a>, Wednesday 29</p><p><strong>The Insomniac's Ball </strong></p><p>Young and impressive stuff for this all-nighter. Note particularly the anthemic, Dexy's-like charge of London band the Rumble Strips. </p><p><strong>&#183;</strong> <a href=\"http://www.seonelondon.com\">SEOne, SE1</a>, Saturday 25</p><p><strong>The Killers </strong></p><p>Brandon Flowers returns to lead the Las Vegas synth-rockers. Former anglophile material now superseded by Springsteen-aping rock of new LP Sam's Town.<br /> \n<strong>&#183;</strong> <a href=\"http://www.brixton-academy.co.uk\"> Carling Academy Brixton, SW9</a>, Sunday 26 to Tuesday 28</p><p><strong>George Michael</strong></p><p>Ex-Wham! singer celebrates 25 years in music with mum-filled gigs. Pop and occasionally political stuff from the scantly-bearded star.</p><p><strong>&#183;</strong> <a href=\"http://www.eco.co.uk\">Earls Court, SW5</a>, Saturday 25, Sunday 26, Tuesday 28 &amp; Wednesday 29</p><p><strong>Twisted Folk Tour </strong></p><p>Nina Nastasia touts recent Steve Albini-produced album. New Yorker Jeffrey Lewis provides quality joke-folk. </p><p><strong>&#183;</strong> <a href=\"http://www.scala-london.co.uk\">The Scala, N1</a>, Tuesday</p><p><strong>Central</strong></p><p><strong>The Blood Arm </strong></p><p>Los Angeles band, essentially Franz Ferdinand with keyboards, bring the ruckus. New LP Lie Lover Lie brings occasionally saucy rock.<br /> \n<strong>&#183;</strong> <a href=\"http://www.thelouisiana.net\">Bristol</a>, Sunday 26 &amp; <a href=\"http://www.brunelrooms.com\">Swindon</a>, Friday 1</p><p><strong>The Killers</strong></p><p>Brandon Flowers returns to lead the Las Vegas band. Former anglophile material now superseded by slightly bigger rock of new LP Sam's Town. </p><p><strong>&#183;</strong> <a href=\"http://www.rock-city.co.uk\">Nottingham</a>, Saturday 25</p><p><strong>Primal Scream </strong></p><p>Bobby Gillespie leads the revolutionary rockers, now back with the template of their Give Out But Don't Give Up LP from a decade ago. </p><p><strong>&#183;</strong> Norwich, Saturday 25; Cambridge, Monday 27; Bristol, Tuesday 28 &amp; London, Friday 1</p><p><strong>The Rumble Strips </strong></p><p>Charlie Waller leads the Dexy's-like charge of this London band. New single, Oh Creole, illustrates some of their soul power. </p><p><strong>&#183;</strong> Northampton, Tuesday 28; Birmingham, Wednesday 29 &amp; Bath, Thursday 30</p><p><strong>Twisted Folk Tour</strong></p><p>Nina Nastasia brings material from recent Steve Albini-produced album. New Yorker Jeffrey Lewis provides quality joke-folk in support. <br /> \n<strong>&#183;</strong> <a href=\"http://www.junction.co.uk\">Cambridge</a>, Sunday 26 &amp; <a href=\"http://www.themusicianpub.co.uk\">Leicester</a>, Monday 28</p><p><strong>North</strong></p><p><strong>Don Caballero </strong></p><p>Heavily infuential, and heavy, Pittsburgh math rockers turn guitars inside out, upside down and such. No throwing of shapes. Possible noodling though. </p><p><strong>&#183;</strong> Leeds, Wednesday 29 &amp; London, Thursday 30</p><p><strong>Albert Hammond Jr </strong></p><p>Strokes guitarist and style guru brings his poodle perm and rocking songs that outdo his compadres at times. </p><p><strong>&#183;</strong> Manchester, Saturday 25; London, Wednesday 29 &amp; Middlesbrough, Friday 1</p><p><strong>The Sadies</strong></p><p>Raw twang and harmonies Gram Parsons could only dream of from the Good brothers and their almost yee-haw Canadian country rocker bunch. </p><p><strong>&#183;</strong> London, Saturday 25 &amp; Newcastle upon Tyne, Wednesday 29</p><p><strong>Scotland and Ireland</strong></p><p><strong>Don Caballero </strong></p><p>Heavy, and heavily infuential, Pittsburgh math rockers turn guitars inside out, upside down and suchlike. No throwing of shapes. Possible noodling though. </p><p><strong>&#183;</strong> Glasgow, Tuesday 28</p><p><strong>Albert Hammond Jr</strong><br /> \nStrokes guitarist and style guru brings his poodle perm and rocking songs that outdo his compadres at times. Easily. Another Graham Coxon in the making? </p><p><strong>&#183;</strong> Glasgow, Monday 27</p><p><strong>The Legend! </strong></p><p>The riot grrrl/grunge scene fuelling music journalist, first Creation label artist, Plan B supremo and author launches his long-awaited Nirvana book, and performs too. </p><p><strong>&#183;</strong> Edinburgh, Saturday 25 &amp; Glasgow, Sunday 26</p><!-- Guardian Watermark: music/2006/nov/25/popandrock|2010-09-17T15:46:48+01:00|9fa88066a3dcb610e5b137c1967cbe85f8a45e7c -->",
+        "shortUrl":"http://gu.com/p/xttpf",
+        "standfirst":"The best gigs across the country",
+        "publication":"guardian.co.uk"
+      },
+      "tags":[{
+        "id":"music/popandrock",
+        "type":"keyword",
+        "webTitle":"Pop and rock",
+        "webUrl":"http://www.guardian.co.uk/music/popandrock",
+        "apiUrl":"http://content.guardianapis.com/music/popandrock",
+        "sectionId":"music",
+        "sectionName":"Music"
+      },{
+        "id":"music/music",
+        "type":"keyword",
+        "webTitle":"Music",
+        "webUrl":"http://www.guardian.co.uk/music/music",
+        "apiUrl":"http://content.guardianapis.com/music/music",
+        "sectionId":"music",
+        "sectionName":"Music"
+      },{
+        "id":"tone/livereview",
+        "type":"tone",
+        "webTitle":"Live music reviews",
+        "webUrl":"http://www.guardian.co.uk/tone/livereview",
+        "apiUrl":"http://content.guardianapis.com/tone/livereview"
+      },{
+        "id":"tone/reviews",
+        "type":"tone",
+        "webTitle":"Reviews",
+        "webUrl":"http://www.guardian.co.uk/tone/reviews",
+        "apiUrl":"http://content.guardianapis.com/tone/reviews"
+      },{
+        "id":"culture/culture",
+        "type":"keyword",
+        "webTitle":"Culture",
+        "webUrl":"http://www.guardian.co.uk/culture/culture",
+        "apiUrl":"http://content.guardianapis.com/culture/culture",
+        "sectionId":"culture",
+        "sectionName":"Culture"
+      },{
+        "id":"type/article",
+        "type":"type",
+        "webTitle":"Article",
+        "webUrl":"http://www.guardian.co.uk/articles",
+        "apiUrl":"http://content.guardianapis.com/articles"
+      }]
+    },{
+      "id":"music/2007/jun/18/popandrock.electronicmusic",
+      "sectionId":"music",
+      "sectionName":"Music",
+      "webPublicationDate":"2007-06-18T17:15:59+01:00",
+      "webTitle":"The beats that rock the Chemical Brothers' blocks off",
+      "webUrl":"http://www.guardian.co.uk/music/2007/jun/18/popandrock.electronicmusic",
+      "apiUrl":"http://content.guardianapis.com/music/2007/jun/18/popandrock.electronicmusic",
+      "fields":{
+        "headline":"The beats that rock the Chemical Brothers' blocks off",
+        "trailText":"<p>Every week, The Playlist asks a musician to put together - you'll never guess - a playlist. This week, Tom Rowlands, the curly-haired Chemical, talks about ten tracks that influenced the Brothers' upcoming album, We Are the Night. Plus: Stream the video for the group's new single, Do It Again, and listen to an exclusive remix.</p>",
+        "body":"<p><strong>The Matter (Of Our Discussion), Boom Bip &amp; Nina Nastasia, from the album Blue Eyed In the Red Room</strong><br /> Nina Nastasia has the most beautiful voice that I had never heard. The words are amazing too: \"I don't believe in power of love. I don't believe in wisdom of stone. I don't believe in a God or a mind. And I'm not alone.\" It's accompanied by this great, swirling sound bed. I'm addicted to this one! <a href=\"http://phobos.apple.com/WebObjects/MZSearch.woa/wa/itmsSearchDisplayUrl?desc=Boom+Bip+%26+Nina+Nastasia+-+Blue+Eyed+In+the+Red+Room+-+The+Matter+%28Of+Our+Discussion%29+Featuring+Nina+Nastasia&amp;WOURLEncoding=ISO8859_1&amp;lang=1&amp;url=http%3A%2F%2Fclkuk.tradedoubler.com%2Fclick%3Fp%3D23708%26a%3D1248044%26url%3Dhttp%253A%252F%252Fphobos.apple.com%252FWebObjects%252FMZStore.woa%252Fwa%252FviewAlbum%253Fi%253D73760388%2526id%253D73760396%2526s%253D143444%2526partnerId%253D2003\">Buy the track on iTunes.</a></p><p><strong>You May Be Blue, Vetiver, from the album To Find Me Gone</strong><br /> Something about the heavy kick drum and the menacing words makes this one perfect for late-night country driving for me. <a href=\"http://clkuk.tradedoubler.com/click?p=23708&amp;a=1248044&amp;url=http%3A%2F%2Fphobos.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewAlbum%3Fi%3D6677344%26id%3D6677359%26s%3D143444%26partnerId%3D2003\">Buy this track on iTunes.</a></p><p><strong>Gravity Grave, The Verve, from the album This Is Music: The Singles 92-98</strong><br /> I've always been a big Verve fan but this single stands out. They really make use of the psychedelic aspect, so it sounds likes this groovy mass of music. <a href=\"http://clkuk.tradedoubler.com/click?p=23708&amp;a=1248044&amp;url=http%3A%2F%2Fphobos.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewAlbum%3Fi%3D28657098%26id%3D28657146%26s%3D143444%26partnerId%3D2003\">Buy this track on iTunes</a></p><p><strong>Stand Together, Beastie Boys, from the album Check Your Head</strong><br /> I'm a huge Beastie Boys fan so I'd be hard picked to choose my favourite. But, if forced, Stand Together would be the stand-out track on this album, which is also one of my favourites of all time. I think it's the sound of chickens arguing at the start that does it. Genius. <a href=\"http://clkuk.tradedoubler.com/click?p=23708&amp;a=1248044&amp;url=http%3A%2F%2Fphobos.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewAlbum%3Fi%3D15892408%26id%3D15892684%26s%3D143444%26partnerId%3D2003\">Buy this track on iTunes.</a></p><p><strong>Ceremony, New Order, from the album International - The Best of New Order</strong><br />The song is made for me in the opening few seconds. It never fails to send shivers down my spine. <a href=\"http://clkuk.tradedoubler.com/click?p=23708&amp;a=1248044&amp;url=http%3A%2F%2Fphobos.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewAlbum%3Fi%3D42029610%26id%3D42029606%26s%3D143444%26partnerId%3D2003\">Buy the track on iTunes</a></p><p><strong>The Factory, J Dilla, from the album Donuts</strong><br /> Detroit MC and producer J Dilla was really one of the finest hip-hop producers around. It's a terrible shame that Donuts was to be his last album. (He died in February last year.) The Factory is just proper, wonky hip-hop. I happen to think the groove will send you into a delirium. Well, hopefully... <a href=\"http://clkuk.tradedoubler.com/click?p=23708&amp;a=1248044&amp;url=http%3A%2F%2Fphobos.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewAlbum%3Fi%3D108232827%26id%3D108233171%26s%3D143444%26partnerId%3D2003\">Buy the track on iTunes.</a></p><p><strong>A New Career In A New Town, David Bowie, from the album All Saints (Collected Instrumentals 1977-1999)</strong><br /> It has a very futuristic sound, but it's very of its time. I think it's about him moving to America, and in a way it's full of possibility. Possibililty, and synthesizers! <a href=\"http://clkuk.tradedoubler.com/click?p=23708&amp;a=1248044&amp;url=http%3A%2F%2Fphobos.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewAlbum%3Fi%3D214682703%26id%3D214682674%26s%3D143444%26partnerId%3D2003\">Buy the track on iTunes.</a></p><p><strong>Atlas, Battles, from the Atlas EP</strong><br /> It's just thrusting, spinning, exciting music with strange singing in it. When I heard it, I thought: \"Count me in.\"\t\t <a href=\"http://clkuk.tradedoubler.com/click?p=23708&amp;a=1248044&amp;url=http%3A%2F%2Fphobos.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewAlbum%3Fi%3D252958742%26id%3D252958683%26s%3D143444%26partnerId%3D2003\">Buy the track on iTunes.</a></p><p><strong>Lazyitis, Happy Mondays, from the album Bummer</strong><br /> Typical of the Mondays, Lazyitis has a wonderful, ramshackle groove and then, of course, there's Shaun Ryder's voice. Much copied, never matched. <a href=\"http://clkuk.tradedoubler.com/click?p=23708&amp;a=1248044&amp;url=http%3A%2F%2Fphobos.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewAlbum%3Fi%3D184675807%26id%3D184675315%26s%3D143444%26partnerId%3D2003\">Buy the track on iTunes.</a></p><p><strong>Relevee, Delia Gonzalez &amp; Gavin Russom, from the album The Days Of Mars</strong><br />These two are signed to DFA and all their stuff is great, but this track in particular makes for great indoor trance-a-thon music. All welcome! <a href=\"http://clkuk.tradedoubler.com/click?p=23708&amp;a=1248044&amp;url=http%3A%2F%2Fphobos.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewAlbum%3Fi%3D81446786%26id%3D81446798%26s%3D143444%26partnerId%3D2003\">Buy the track on iTunes.</a></p><p>&#183; Free bonus: Watch the video for Do It Again (<a href=\"http://del.interoute.com/?id=686985ba-780f-48b2-ae86-c28552045a43&amp;delivery=stream\">Windows Media Player</a> and <a href=\"http://del.interoute.com/?id=e5c21d59-b4ab-4887-9d13-9913e8229e65&amp;delivery=stream\">QuickTime</a>).</p><p>&#183; Plus: <a href=\"http://www.7digital.com/stores/default.aspx?shop=33&amp;partner=363\">Download an exclusive version</a> of the new Chemical Brothers single, Do It Again, in association with Guardian Unlimited featuring the Oliver Huntemann Dub version, which is unavailable anywhere else.</p><!-- Guardian Watermark: music/2007/jun/18/popandrock.electronicmusic|2010-09-17T15:46:48+01:00|0f8399c4acc258ae524577724df94446fd7ac503 -->",
+        "strap":"The Playlist",
+        "shortUrl":"http://gu.com/p/xj977",
+        "standfirst":"Every week, The Playlist asks a musician to put together - you'll never guess - a playlist. This week, Tom Rowlands, the curly-haired Chemical, talks about ten tracks that influenced the Brothers' upcoming album, We Are the Night. Plus: Stream the video for the group's new single, Do It Again, and listen to an exclusive remix",
+        "publication":"guardian.co.uk"
+      },
+      "tags":[{
+        "id":"music/popandrock",
+        "type":"keyword",
+        "webTitle":"Pop and rock",
+        "webUrl":"http://www.guardian.co.uk/music/popandrock",
+        "apiUrl":"http://content.guardianapis.com/music/popandrock",
+        "sectionId":"music",
+        "sectionName":"Music"
+      },{
+        "id":"music/electronicmusic",
+        "type":"keyword",
+        "webTitle":"Electronic music",
+        "webUrl":"http://www.guardian.co.uk/music/electronicmusic",
+        "apiUrl":"http://content.guardianapis.com/music/electronicmusic",
+        "sectionId":"music",
+        "sectionName":"Music"
+      },{
+        "id":"music/music",
+        "type":"keyword",
+        "webTitle":"Music",
+        "webUrl":"http://www.guardian.co.uk/music/music",
+        "apiUrl":"http://content.guardianapis.com/music/music",
+        "sectionId":"music",
+        "sectionName":"Music"
+      },{
+        "id":"tone/comment",
+        "type":"tone",
+        "webTitle":"Comment",
+        "webUrl":"http://www.guardian.co.uk/tone/comment",
+        "apiUrl":"http://content.guardianapis.com/tone/comment"
+      },{
+        "id":"culture/culture",
+        "type":"keyword",
+        "webTitle":"Culture",
+        "webUrl":"http://www.guardian.co.uk/culture/culture",
+        "apiUrl":"http://content.guardianapis.com/culture/culture",
+        "sectionId":"culture",
+        "sectionName":"Culture"
+      },{
+        "id":"music/dance-music",
+        "type":"keyword",
+        "webTitle":"Dance music",
+        "webUrl":"http://www.guardian.co.uk/music/dance-music",
+        "apiUrl":"http://content.guardianapis.com/music/dance-music",
+        "sectionId":"music",
+        "sectionName":"Music"
+      },{
+        "id":"type/article",
+        "type":"type",
+        "webTitle":"Article",
+        "webUrl":"http://www.guardian.co.uk/articles",
+        "apiUrl":"http://content.guardianapis.com/articles"
+      }],
+      "mediaAssets":[{
+        "type":"picture",
+        "rel":"body",
+        "index":1,
+        "file":"http://static.guim.co.uk/sys-images/Music/Pix/pictures/2007/06/18/chemical372.jpg",
+        "fields":{
+          "source":"Guardian",
+          "photographer":"Martin Godwin",
+          "height":"192",
+          "credit":"Martin Godwin/Guardian",
+          "altText":"The Chemical Brothers",
+          "caption":"Tom Rowlands, left, of the Chemical Brothers recommend that you listen to J Dilla, David Bowie and Nina Nastasia. Photograph: Martin Godwin/Guardian",
+          "width":"372"
+        }
+      }]
+    },{
+      "id":"music/2008/mar/11/popandrock.reviews1",
+      "sectionId":"music",
+      "sectionName":"Music",
+      "webPublicationDate":"2008-03-11T00:02:57Z",
+      "webTitle":"Laura Marling, Union Chapel, London",
+      "webUrl":"http://www.guardian.co.uk/music/2008/mar/11/popandrock.reviews1",
+      "apiUrl":"http://content.guardianapis.com/music/2008/mar/11/popandrock.reviews1",
+      "fields":{
+        "headline":"Laura Marling",
+        "trailText":"<p>Union Chapel, London</p>",
+        "body":"<p>Eschewing the mouthy pop and cockney-accented indie of her contemporaries, 18-year-old Laura Marling is fast becoming an anti-folk sensation. Schooled by her father in the songs of Joni Mitchell and Joan Baez, and having discovered the dark delights of Nina Nastasia and Bonnie \"Prince\" Billy, Marling is a very modern troubadour who sings bold and literate missives from the trenches of adolescence.</p><p>Much has been made of the maturity of her music, but when Marling appears on stage, she is a typical teen. Pale-faced, her white-blonde hair glowing against a plaid lumberjack shirt and prerequisite skinny jeans set off by red ballet pumps, she bares more than a passing resemblance to supermodel du jour Agyness Deyn.</p><p>Her debut album, Alas, I Cannot Swim, sighs with the world-weariness of a survivor and speeds along with the impatience of a girl with a lot to say. Grasping an acoustic guitar, she wastes no time driving into the all-consuming love of Shine, her words simple but devastating, her angelic voice making the most of the chapel's acoustics.</p><p>But despite the upfront honesty of Marling's songs, she is painfully shy, visibly relaxing when her eight-piece band join her. Comprised of keyboards, bass, violinist, a string section Marling calls \"the Fiddlettes\" and multi-talented drummer and backing singer Marcus Mumford, the band bring Marling's small songs, especially Night Terror and Old Stone, to lush, sweeping crescendos.</p><p>Squirming at the idea of \"standing at the side of the stage, waiting for an encore\", she suffers through rapturous cheers from the crowd and following the spirited hoe-down of Alas, I Cannot Swim, she sprints away as fast as her legs will take her.</p><!-- Guardian Watermark: music/2008/mar/11/popandrock.reviews1|2010-09-17T15:46:48+01:00|8e551acdae087ab1365442807ee1b0d7a2b8c95f -->",
+        "strap":"Pop",
+        "shortUrl":"http://gu.com/p/xkc22",
+        "standfirst":"Union Chapel, London",
+        "byline":"Betty Clarke",
+        "publication":"guardian.co.uk"
+      },
+      "tags":[{
+        "id":"music/music",
+        "type":"keyword",
+        "webTitle":"Music",
+        "webUrl":"http://www.guardian.co.uk/music/music",
+        "apiUrl":"http://content.guardianapis.com/music/music",
+        "sectionId":"music",
+        "sectionName":"Music"
+      },{
+        "id":"music/popandrock",
+        "type":"keyword",
+        "webTitle":"Pop and rock",
+        "webUrl":"http://www.guardian.co.uk/music/popandrock",
+        "apiUrl":"http://content.guardianapis.com/music/popandrock",
+        "sectionId":"music",
+        "sectionName":"Music"
+      },{
+        "id":"tone/reviews",
+        "type":"tone",
+        "webTitle":"Reviews",
+        "webUrl":"http://www.guardian.co.uk/tone/reviews",
+        "apiUrl":"http://content.guardianapis.com/tone/reviews"
+      },{
+        "id":"culture/culture",
+        "type":"keyword",
+        "webTitle":"Culture",
+        "webUrl":"http://www.guardian.co.uk/culture/culture",
+        "apiUrl":"http://content.guardianapis.com/culture/culture",
+        "sectionId":"culture",
+        "sectionName":"Culture"
+      },{
+        "id":"tone/livereview",
+        "type":"tone",
+        "webTitle":"Live music reviews",
+        "webUrl":"http://www.guardian.co.uk/tone/livereview",
+        "apiUrl":"http://content.guardianapis.com/tone/livereview"
+      },{
+        "id":"profile/bettyclarke",
+        "type":"contributor",
+        "webTitle":"Betty Clarke",
+        "webUrl":"http://www.guardian.co.uk/profile/bettyclarke",
+        "apiUrl":"http://content.guardianapis.com/profile/bettyclarke"
+      },{
+        "id":"music/laura-marling",
+        "type":"keyword",
+        "webTitle":"Laura Marling",
+        "webUrl":"http://www.guardian.co.uk/music/laura-marling",
+        "apiUrl":"http://content.guardianapis.com/music/laura-marling",
+        "sectionId":"music",
+        "sectionName":"Music"
+      },{
+        "id":"type/article",
+        "type":"type",
+        "webTitle":"Article",
+        "webUrl":"http://www.guardian.co.uk/articles",
+        "apiUrl":"http://content.guardianapis.com/articles"
+      }]
+    }]
+  }
+}

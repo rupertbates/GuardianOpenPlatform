@@ -1,0 +1,265 @@
+{
+  "response":{
+    "status":"ok",
+    "userTier":"partner",
+    "total":1,
+    "content":{
+      "id":"world/gallery/2010/sep/17/pope-benedict-xvi-catholicism",
+      "sectionId":"world",
+      "sectionName":"World news",
+      "webPublicationDate":"2010-09-17T12:06:54+01:00",
+      "webTitle":"Pope Benedict XVI's UK visit: Day two",
+      "webUrl":"http://www.guardian.co.uk/world/gallery/2010/sep/17/pope-benedict-xvi-catholicism",
+      "apiUrl":"http://content.guardianapis.com/world/gallery/2010/sep/17/pope-benedict-xvi-catholicism",
+      "fields":{
+        "headline":"Pope Benedict XVI's UK visit: Day two",
+        "trailText":"<p>The pontiff travels across London on the second day of his trip to Britain</p>",
+        "shortUrl":"http://gu.com/p/2jmq3",
+        "standfirst":"The pontiff travels across London on the second day of his trip to Britain",
+        "thumbnail":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/9/17/1284718294773/Pope-day-two-Twickenham-002.jpg",
+        "publication":"guardian.co.uk"
+      },
+      "tags":[{
+        "id":"world/pope-benedict-xvi",
+        "type":"keyword",
+        "webTitle":"Pope Benedict XVI",
+        "webUrl":"http://www.guardian.co.uk/world/pope-benedict-xvi",
+        "apiUrl":"http://content.guardianapis.com/world/pope-benedict-xvi",
+        "sectionId":"world",
+        "sectionName":"World news"
+      },{
+        "id":"uk/uk",
+        "type":"keyword",
+        "webTitle":"UK news",
+        "webUrl":"http://www.guardian.co.uk/uk/uk",
+        "apiUrl":"http://content.guardianapis.com/uk/uk",
+        "sectionId":"uk",
+        "sectionName":"UK news"
+      },{
+        "id":"world/catholicism",
+        "type":"keyword",
+        "webTitle":"Catholicism",
+        "webUrl":"http://www.guardian.co.uk/world/catholicism",
+        "apiUrl":"http://content.guardianapis.com/world/catholicism",
+        "sectionId":"world",
+        "sectionName":"World news"
+      },{
+        "id":"world/religion",
+        "type":"keyword",
+        "webTitle":"Religion",
+        "webUrl":"http://www.guardian.co.uk/world/religion",
+        "apiUrl":"http://content.guardianapis.com/world/religion",
+        "sectionId":"world",
+        "sectionName":"World news"
+      },{
+        "id":"tone/news",
+        "type":"tone",
+        "webTitle":"News",
+        "webUrl":"http://www.guardian.co.uk/tone/news",
+        "apiUrl":"http://content.guardianapis.com/tone/news"
+      },{
+        "id":"type/gallery",
+        "type":"type",
+        "webTitle":"Gallery",
+        "webUrl":"http://www.guardian.co.uk/inpictures",
+        "apiUrl":"http://content.guardianapis.com/inpictures"
+      }],
+      "mediaAssets":[{
+        "type":"picture",
+        "rel":"gallery",
+        "index":1,
+        "file":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/9/17/1284719928516/A-nun-is-checked-by-polic-002.jpg",
+        "fields":{
+          "source":"PA",
+          "photographer":"Steve Parsons",
+          "height":"600",
+          "credit":"Steve Parsons/PA",
+          "thumbnail":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/9/17/1284719928516/A-nun-is-checked-by-polic-002-thumb-2947.jpg",
+          "altText":"Pope Day 2: A nun is checked by police as she passes through a security checkpoint",
+          "caption":"A nun is checked by police as she passes through a security checkpoint for Pope visit",
+          "width":"368"
+        }
+      },{
+        "type":"picture",
+        "rel":"gallery",
+        "index":2,
+        "file":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/9/17/1284719942062/A-nun-stands-with-a-clerg-005.jpg",
+        "fields":{
+          "source":"Reuters",
+          "photographer":"Kevin Coombs",
+          "height":"480",
+          "credit":"Kevin Coombs/Reuters",
+          "thumbnail":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/9/17/1284719942062/A-nun-stands-with-a-clerg-005-thumb-5588.jpg",
+          "altText":"Pope Day 2: A nun stands with a clergy man at a bus stop ",
+          "caption":"A nun stands with a clergy man at a bus stop near St Mary's University College in Twickenham ahead of the Pope's visit",
+          "width":"719"
+        }
+      },{
+        "type":"picture",
+        "rel":"gallery",
+        "index":3,
+        "file":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/9/17/1284719944271/His-Holiness-Pope-Benedic-007.jpg",
+        "fields":{
+          "source":"Getty Images",
+          "photographer":"Peter Macdiarmid",
+          "height":"480",
+          "credit":"Peter Macdiarmid/Getty Images",
+          "thumbnail":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/9/17/1284719944271/His-Holiness-Pope-Benedic-007-thumb-8365.jpg",
+          "altText":"Pope Day 2: His Holiness Pope Benedict XVI Pays A State Visit To The UK - Day 2",
+          "caption":"School children wait to greet Pope Benedict XVI as he arrives at St Mary's University College during day two of his four day state",
+          "width":"605"
+        }
+      },{
+        "type":"picture",
+        "rel":"gallery",
+        "index":4,
+        "file":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/9/17/1284719931055/Papal-visit-to-UK---Day-T-004.jpg",
+        "fields":{
+          "source":"PA",
+          "photographer":"Steve Parsons",
+          "height":"480",
+          "credit":"Steve Parsons/PA",
+          "thumbnail":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/9/17/1284719931055/Papal-visit-to-UK---Day-T-004-thumb-1338.jpg",
+          "altText":"Pope Day 2: Papal visit to UK - Day Two",
+          "caption":"A nun walks past police officers during preparations for Pope Benedict XVI arrival",
+          "width":"681"
+        }
+      },{
+        "type":"picture",
+        "rel":"gallery",
+        "index":5,
+        "file":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/9/17/1284719927314/Papal-visit-to-UK---Day-T-001.jpg",
+        "fields":{
+          "source":"PA",
+          "photographer":"Steve Parsons",
+          "height":"480",
+          "credit":"Steve Parsons/PA",
+          "thumbnail":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/9/17/1284719927314/Papal-visit-to-UK---Day-T-001-thumb-3741.jpg",
+          "altText":"Pope Day 2: Papal visit to UK - Day Two",
+          "caption":"Protestors as Pope Benedict XVI arrives in car.",
+          "width":"704"
+        }
+      },{
+        "type":"picture",
+        "rel":"gallery",
+        "index":6,
+        "file":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/9/17/1284723090426/Gaydar-protesters-prepare-011.jpg",
+        "fields":{
+          "source":"Reuters",
+          "photographer":"Andrew Winning",
+          "height":"480",
+          "credit":"Andrew Winning/Reuters",
+          "thumbnail":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/9/17/1284723090426/Gaydar-protesters-prepare-011-thumb-5516.jpg",
+          "altText":"Pope Day 2: Gaydar protesters prepare for Pope Benedict XVI's arrival",
+          "caption":"Gaydar protesters prepare for Pope Benedict XVI's arrival ",
+          "width":"694"
+        }
+      },{
+        "type":"picture",
+        "rel":"gallery",
+        "index":7,
+        "file":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/9/17/1284719943245/Pope-Benedict-XVI-greets--006.jpg",
+        "fields":{
+          "source":"Getty Images",
+          "photographer":"Peter Macdiarmid",
+          "height":"480",
+          "credit":"Peter Macdiarmid/Getty Images",
+          "thumbnail":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/9/17/1284719943245/Pope-Benedict-XVI-greets--006-thumb-1269.jpg",
+          "altText":"Pope Day 2: Pope Benedict XVI greets school children ",
+          "caption":"Pope Benedict XVI greets school children ",
+          "width":"728"
+        }
+      },{
+        "type":"picture",
+        "rel":"gallery",
+        "index":8,
+        "file":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/9/17/1284719929745/Pope-Benedict-XVI-arrives-003.jpg",
+        "fields":{
+          "source":"PA",
+          "photographer":"Steve Parsons",
+          "height":"480",
+          "credit":"Steve Parsons/PA",
+          "thumbnail":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/9/17/1284719929745/Pope-Benedict-XVI-arrives-003-thumb-6099.jpg",
+          "altText":"Pope Day 2: Pope Benedict XVI arrives for a celebration of Catholic education",
+          "caption":"Pope Benedict XVI arrives for a celebration of Catholic education at St Mary's University College",
+          "width":"720"
+        }
+      },{
+        "type":"picture",
+        "rel":"gallery",
+        "index":9,
+        "file":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/9/17/1284719945409/Pope-Benedict-XVI-arrives-008.jpg",
+        "fields":{
+          "source":"REUTERS",
+          "photographer":"Toby Melville",
+          "height":"476",
+          "credit":"Toby Melville/REUTERS",
+          "thumbnail":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/9/17/1284719945409/Pope-Benedict-XVI-arrives-008-thumb-8820.jpg",
+          "altText":"Pope Day 2: Pope Benedict XVI arrives to attend a service of prayer",
+          "caption":"Pope Benedict XVI arrives to attend a service of prayer at St Mary's University College Chapel at Twickenham",
+          "width":"760"
+        }
+      },{
+        "type":"picture",
+        "rel":"gallery",
+        "index":10,
+        "file":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/9/17/1284720592059/Pope-Benedict-XVI-attends-010.jpg",
+        "fields":{
+          "source":"Reuters",
+          "photographer":"Toby Melville",
+          "height":"600",
+          "credit":"Toby Melville/Reuters",
+          "thumbnail":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/9/17/1284720592059/Pope-Benedict-XVI-attends-010-thumb-9079.jpg",
+          "altText":"Pope Day 2: Pope Benedict XVI attends a Service of Prayer",
+          "caption":"Pope Benedict XVI attends a Service of Prayer at St Mary's University College Chapel ",
+          "width":"297"
+        }
+      },{
+        "type":"picture",
+        "rel":"gallery",
+        "index":11,
+        "file":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/9/17/1284723093079/Pope-Benedict-XVI-preside-013.jpg",
+        "fields":{
+          "source":"AFP/Getty Images",
+          "photographer":"Filippo Monteforte",
+          "height":"480",
+          "credit":"Filippo Monteforte/AFP/Getty Images",
+          "thumbnail":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/9/17/1284723093079/Pope-Benedict-XVI-preside-013-thumb-8306.jpg",
+          "altText":"Pope Day 2: Pope Benedict XVI presides of a Celebration of Catholic Education",
+          "caption":"Pope Benedict XVI presides of a Celebration of Catholic Education",
+          "width":"752"
+        }
+      },{
+        "type":"picture",
+        "rel":"gallery",
+        "index":12,
+        "file":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/9/17/1284723578533/Pope-Benedict-XVI-smiles--014.jpg",
+        "fields":{
+          "source":"AFP/Getty Images",
+          "photographer":"Filippo Monteforte",
+          "height":"480",
+          "credit":"Filippo Monteforte/AFP/Getty Images",
+          "thumbnail":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/9/17/1284723578533/Pope-Benedict-XVI-smiles--014-thumb-548.jpg",
+          "altText":"Pope Day 2 Twick: Pope Benedict XVI smiles during a Celebr",
+          "caption":"Visiting about 4,000 school pupils and young people at St Mary's University College, Twickenham, he told them that \"money is not enough to make us happy\"",
+          "width":"741"
+        }
+      },{
+        "type":"picture",
+        "rel":"gallery",
+        "index":13,
+        "file":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/9/17/1284723091704/There-is-no-God-demonstra-012.jpg",
+        "fields":{
+          "source":"PA",
+          "photographer":"Ben Birchall",
+          "height":"480",
+          "credit":"Ben Birchall/PA",
+          "thumbnail":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/9/17/1284723091704/There-is-no-God-demonstra-012-thumb-4619.jpg",
+          "altText":"Pope Day 2: There is no God demonstrater as Pope arrives",
+          "caption":"There is no God demonstrater as Pope arrives",
+          "width":"643"
+        }
+      }]
+    }
+  }
+}

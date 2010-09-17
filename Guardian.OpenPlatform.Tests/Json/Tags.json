@@ -1,0 +1,84 @@
+{
+  "response":{
+    "status":"ok",
+    "userTier":"partner",
+    "total":20889,
+    "startIndex":1,
+    "pageSize":10,
+    "currentPage":1,
+    "pages":2089,
+    "results":[{
+      "id":"enjoy-england/south-west",
+      "type":"keyword",
+      "webTitle":"South-west",
+      "webUrl":"http://www.guardian.co.uk/enjoy-england/south-west",
+      "apiUrl":"http://content.guardianapis.com/enjoy-england/south-west",
+      "sectionId":"enjoy-england",
+      "sectionName":"Enjoy England"
+    },{
+      "id":"profile/dick-vinegar",
+      "type":"contributor",
+      "webTitle":"Dick Vinegar",
+      "webUrl":"http://www.guardian.co.uk/profile/dick-vinegar",
+      "apiUrl":"http://content.guardianapis.com/profile/dick-vinegar"
+    },{
+      "id":"education/schoolbuilding",
+      "type":"keyword",
+      "webTitle":"School building programme",
+      "webUrl":"http://www.guardian.co.uk/education/schoolbuilding",
+      "apiUrl":"http://content.guardianapis.com/education/schoolbuilding",
+      "sectionId":"education",
+      "sectionName":"Education"
+    },{
+      "id":"lifeandstyle/plastic-surgery",
+      "type":"keyword",
+      "webTitle":"Plastic surgery",
+      "webUrl":"http://www.guardian.co.uk/lifeandstyle/plastic-surgery",
+      "apiUrl":"http://content.guardianapis.com/lifeandstyle/plastic-surgery",
+      "sectionId":"lifeandstyle",
+      "sectionName":"Life and style"
+    },{
+      "id":"books/series/livingonthinair",
+      "type":"series",
+      "webTitle":"Living on thin air",
+      "webUrl":"http://www.guardian.co.uk/books/series/livingonthinair",
+      "apiUrl":"http://content.guardianapis.com/books/series/livingonthinair",
+      "sectionId":"books",
+      "sectionName":"Books"
+    },{
+      "id":"profile/rachel-nicholson",
+      "type":"contributor",
+      "webTitle":"Rachel Nicholson",
+      "webUrl":"http://www.guardian.co.uk/profile/rachel-nicholson",
+      "apiUrl":"http://content.guardianapis.com/profile/rachel-nicholson"
+    },{
+      "id":"profile/soniasudhakar",
+      "type":"contributor",
+      "webTitle":"Sonia Sudhakar",
+      "webUrl":"http://www.guardian.co.uk/profile/soniasudhakar",
+      "apiUrl":"http://content.guardianapis.com/profile/soniasudhakar"
+    },{
+      "id":"artanddesign/constable",
+      "type":"keyword",
+      "webTitle":"John Constable",
+      "webUrl":"http://www.guardian.co.uk/artanddesign/constable",
+      "apiUrl":"http://content.guardianapis.com/artanddesign/constable",
+      "sectionId":"artanddesign",
+      "sectionName":"Art and design"
+    },{
+      "id":"books/richard-ford",
+      "type":"keyword",
+      "webTitle":"Richard Ford",
+      "webUrl":"http://www.guardian.co.uk/books/richard-ford",
+      "apiUrl":"http://content.guardianapis.com/books/richard-ford",
+      "sectionId":"books",
+      "sectionName":"Books"
+    },{
+      "id":"profile/gerry-johnson",
+      "type":"contributor",
+      "webTitle":"Gerry Johnson",
+      "webUrl":"http://www.guardian.co.uk/profile/gerry-johnson",
+      "apiUrl":"http://content.guardianapis.com/profile/gerry-johnson"
+    }]
+  }
+}
