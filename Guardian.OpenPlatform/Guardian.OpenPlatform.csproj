@@ -46,8 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ApiFacade.cs" />
-    <Compile Include="ConnectionFailedException.cs" />
+    <Compile Include="Api\ApiFacade.cs" />
+    <Compile Include="Api\ConnectionFailedException.cs" />
     <Compile Include="Results\Entities\Content.cs" />
     <Compile Include="Results\Entities\ContentBase.cs" />
     <Compile Include="Results\Entities\MediaAsset.cs" />
@@ -66,15 +66,15 @@
     <Compile Include="Async\AsyncSearchCallbackParameter.cs" />
     <Compile Include="Async\AsyncTagsCallbackParameter.cs" />
     <Compile Include="Async\Delegates.cs" />
-    <Compile Include="ContentSearchParameters.cs" />
+    <Compile Include="Query\ContentSearchParameters.cs" />
     <Compile Include="EqualityComparers\ContentComparer.cs" />
-    <Compile Include="ObjectDeserializer.cs" />
+    <Compile Include="Results\ObjectDeserializer.cs" />
     <Compile Include="OpenPlatformSearch.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="QueryStringBuilder.cs" />
-    <Compile Include="QueryTranslator.cs" />
+    <Compile Include="Query\QueryStringBuilder.cs" />
+    <Compile Include="Query\QueryTranslator.cs" />
     <Compile Include="Results\SearchResponses\TagSearchResponse.cs" />
-    <Compile Include="TagSearchParameters.cs" />
+    <Compile Include="Query\TagSearchParameters.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
