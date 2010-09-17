@@ -3,15 +3,17 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProductVersion>8.0.30703</ProductVersion>
+    <ProductVersion>
+    </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{4912142E-5AF2-453D-B6F1-A83FD8AC0009}</ProjectGuid>
+    <ProjectGuid>{72335E96-FBC9-476F-BA28-5FAE334203C9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Guardian.OpenPlatform.Linq</RootNamespace>
-    <AssemblyName>Guardian.OpenPlatform.Linq</AssemblyName>
+    <RootNamespace>Guardian.OpenPlatform.Linq.Tests</RootNamespace>
+    <AssemblyName>Guardian.OpenPlatform.Linq.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -31,34 +33,37 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
-    <Reference Include="System.Core" />
-    <Reference Include="System.Xml.Linq" />
-    <Reference Include="System.Data.DataSetExtensions" />
-    <Reference Include="Microsoft.CSharp" />
-    <Reference Include="System.Data" />
-    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Generic\Evaluator.cs" />
-    <Compile Include="Generic\ExpressionTreeHelpers.cs" />
-    <Compile Include="Generic\ExpressionTreeModifier.cs" />
-    <Compile Include="Generic\InnerMostWhereFinder.cs" />
-    <Compile Include="Generic\InvalidQueryException.cs" />
-    <Compile Include="SearchTermFinder.cs" />
-    <Compile Include="OpenPlatformQueryContext.cs" />
-    <Compile Include="Generic\OpenPlatformQueryProvider.cs" />
+    <CodeAnalysisDependentAssemblyPaths Condition=" '$(VS100COMNTOOLS)' != '' " Include="$(VS100COMNTOOLS)..\IDE\PrivateAssemblies">
+      <Visible>False</Visible>
+    </CodeAnalysisDependentAssemblyPaths>
+  </ItemGroup>
+  <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Generic\QueryableOpenPlatformData.cs" />
-    <Compile Include="Generic\TypeSystem.cs" />
+    <Compile Include="TestContentSearch.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Guardian.OpenPlatform.Linq\Guardian.OpenPlatform.Linq.csproj">
+      <Project>{4912142E-5AF2-453D-B6F1-A83FD8AC0009}</Project>
+      <Name>Guardian.OpenPlatform.Linq</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Guardian.OpenPlatform\Guardian.OpenPlatform.csproj">
       <Project>{F5199BEF-9300-4B72-9648-2108470244FE}</Project>
       <Name>Guardian.OpenPlatform</Name>
     </ProjectReference>
   </ItemGroup>
-  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <Content Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">

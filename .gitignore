@@ -17,6 +17,12 @@ _UpgradeReport_Files/
 ###############
 bin/
 obj/
+
+
+# MS Test stuff#
+################
+*.testsettings
+*.vsmdi
 TestResults/
 
 # Resharper #

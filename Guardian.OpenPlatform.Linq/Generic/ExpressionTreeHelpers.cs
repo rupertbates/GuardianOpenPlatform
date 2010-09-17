@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq.Expressions;
+using System.Reflection;
 
 namespace Guardian.OpenPlatform.Linq
 {
@@ -23,11 +24,14 @@ namespace Guardian.OpenPlatform.Linq
 
         internal static bool IsSpecificMemberExpression(Expression exp, Type declaringType, string memberName)
         {
-            return ((exp is MemberExpression) &&
-                (((MemberExpression)exp).Member.DeclaringType == declaringType) &&
-                (((MemberExpression)exp).Member.Name == memberName));
+            return (exp is MemberExpression &&
+                IsSameTypeOrSubType(((MemberExpression)exp).Member.DeclaringType, declaringType) &&
+                ((MemberExpression)exp).Member.Name == memberName);
         }
-
+        internal static bool IsSameTypeOrSubType(Type superclass, Type subclass)
+        {
+            return subclass == superclass || subclass.IsSubclassOf(superclass);
+        }
         internal static string GetValueFromEqualsExpression(BinaryExpression be, Type memberDeclaringType, string memberName)
         {
             if (be.NodeType != ExpressionType.Equal)
@@ -37,7 +41,7 @@ namespace Guardian.OpenPlatform.Linq
             {
                 MemberExpression me = (MemberExpression)be.Left;
 
-                if (me.Member.DeclaringType == memberDeclaringType && me.Member.Name == memberName)
+                if (IsSameTypeOrSubType(me.Member.DeclaringType, memberDeclaringType) && me.Member.Name == memberName)
                 {
                     return GetValueFromExpression(be.Right);
                 }
@@ -46,7 +50,7 @@ namespace Guardian.OpenPlatform.Linq
             {
                 MemberExpression me = (MemberExpression)be.Right;
 
-                if (me.Member.DeclaringType == memberDeclaringType && me.Member.Name == memberName)
+                if (IsSameTypeOrSubType(me.Member.DeclaringType, memberDeclaringType) && me.Member.Name == memberName)
                 {
                     return GetValueFromExpression(be.Left);
                 }

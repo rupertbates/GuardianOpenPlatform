@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Linq;
 using System.Linq.Expressions;
-using Guardian.OpenPlatform.Linq.Results;
+using Guardian.OpenPlatform.Results.Entities;
+
 
 namespace Guardian.OpenPlatform.Linq
 {

@@ -5,7 +5,21 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guardian.OpenPlatform", "Gu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guardian.OpenPlatform.Tests", "Guardian.OpenPlatform.Tests\Guardian.OpenPlatform.Tests.csproj", "{9CA7F555-102D-49A1-A0F9-D91D927F913E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guardian.OpenPlatform.Linq", "Guardian.OpenPlatform.Linq\Guardian.OpenPlatform.Linq.csproj", "{4912142E-5AF2-453D-B6F1-A83FD8AC0009}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guardian.OpenPlatform.Linq.Tests", "Guardian.OpenPlatform.Linq.Tests\Guardian.OpenPlatform.Linq.Tests.csproj", "{72335E96-FBC9-476F-BA28-5FAE334203C9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B335C8B5-AB89-4323-8D19-32ABCD405724}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		OpenPlatform.vsmdi = OpenPlatform.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
 Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = OpenPlatform.vsmdi
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
@@ -19,6 +33,14 @@ Global
 		{9CA7F555-102D-49A1-A0F9-D91D927F913E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CA7F555-102D-49A1-A0F9-D91D927F913E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CA7F555-102D-49A1-A0F9-D91D927F913E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4912142E-5AF2-453D-B6F1-A83FD8AC0009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4912142E-5AF2-453D-B6F1-A83FD8AC0009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4912142E-5AF2-453D-B6F1-A83FD8AC0009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4912142E-5AF2-453D-B6F1-A83FD8AC0009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72335E96-FBC9-476F-BA28-5FAE334203C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72335E96-FBC9-476F-BA28-5FAE334203C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72335E96-FBC9-476F-BA28-5FAE334203C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72335E96-FBC9-476F-BA28-5FAE334203C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

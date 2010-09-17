@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
+using Guardian.OpenPlatform.Results.Entities;
 
 namespace Guardian.OpenPlatform.Linq
 {
@@ -28,21 +29,22 @@ namespace Guardian.OpenPlatform.Linq
             
 
             // Call the Web service and get the results.
-            Place[] places = WebServiceHelper.GetPlacesFromOpenPlatform(terms);
+            var results = new OpenPlatformSearch().ContentSearch(new ContentSearchParameters {Query = terms.First()}).Results;
+            
 
             // Copy the IEnumerable places to an IQueryable.
-            IQueryable<Place> queryablePlaces = places.AsQueryable<Place>();
+            IQueryable<Content> queryableResults = results.AsQueryable();
 
             // Copy the expression tree that was passed in, changing only the first
             // argument of the innermost MethodCallExpression.
-            ExpressionTreeModifier treeCopier = new ExpressionTreeModifier(queryablePlaces);
+            ExpressionTreeModifier treeCopier = new ExpressionTreeModifier(queryableResults);
             Expression newExpressionTree = treeCopier.Visit(expression);
 
             // This step creates an IQueryable that executes by replacing Queryable methods with Enumerable methods.
             if (IsEnumerable)
-                return queryablePlaces.Provider.CreateQuery(newExpressionTree);
+                return queryableResults.Provider.CreateQuery(newExpressionTree);
             else
-                return queryablePlaces.Provider.Execute(newExpressionTree);
+                return queryableResults.Provider.Execute(newExpressionTree);
         }
 
         private static bool IsQueryOverDataSource(Expression expression)

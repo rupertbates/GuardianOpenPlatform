@@ -29,7 +29,7 @@ namespace Guardian.OpenPlatform
             qsb.AddParameter("section", parameters.Section);
             qsb.AddParameter("from-date", parameters.From);
             qsb.AddParameter("to-date", parameters.To);
-            qsb.AddParameter("content-type", parameters.ContentType);
+            //qsb.AddParameter("content-type", parameters.ContentType);
             qsb.AddParameter("page-size", parameters.PageSize.ToString());
             qsb.AddParameter("page", parameters.PageIndex.ToString());
             return AddBaseUriAndApiKey("search", qsb);
