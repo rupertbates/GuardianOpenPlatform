@@ -45,6 +45,7 @@
     <Compile Include="Generic\ExpressionTreeModifier.cs" />
     <Compile Include="Generic\InnerMostWhereFinder.cs" />
     <Compile Include="Generic\InvalidQueryException.cs" />
+    <Compile Include="Generic\ContentQueryVisitor.cs" />
     <Compile Include="SearchTermFinder.cs" />
     <Compile Include="OpenPlatformQueryContext.cs" />
     <Compile Include="Generic\OpenPlatformQueryProvider.cs" />

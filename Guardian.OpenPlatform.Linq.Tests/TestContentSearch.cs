@@ -15,7 +15,7 @@ namespace Guardian.OpenPlatform.Linq.Tests
         {
             var data = new QueryableOpenPlatformData<Content>();
             var query = from c in data
-                        where c.WebTitle == "Nina Nastasia"
+                        where c. WebTitle == "Nina Nastasia"
                         select c;
             var list = query.ToList();
             Assert.IsTrue(query.Count() > 0);
