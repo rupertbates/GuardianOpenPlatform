@@ -8,6 +8,11 @@ namespace Guardian.OpenPlatform.Linq
 {
     public class OpenPlatformQueryContext
     {
+        public QueryableOpenPlatformData<Content> Content { get; set; }
+        public OpenPlatformQueryContext()
+        {
+            Content = new QueryableOpenPlatformData<Content>();
+        }
         // Executes the expression tree that is passed to it.
         internal static object Execute(Expression expression, bool IsEnumerable)
         {
@@ -53,5 +58,7 @@ namespace Guardian.OpenPlatform.Linq
             // expression is of type ConstantExpression, not MethodCallExpression.
             return (expression is MethodCallExpression);
         }
+
+ 
     }
 }
