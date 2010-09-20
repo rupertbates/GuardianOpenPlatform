@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 using Guardian.OpenPlatform.Results.Entities;
+using Guardian.OpenPlatform.Linq.Generic;
 
 namespace Guardian.OpenPlatform.Linq
 {
@@ -22,7 +23,10 @@ namespace Guardian.OpenPlatform.Linq
 
             // Find the call to Where() and get the lambda expression predicate.
             InnermostWhereFinder whereFinder = new InnermostWhereFinder();
+            
             MethodCallExpression whereExpression = whereFinder.GetInnermostWhere(expression);
+            var visitor = new ContentQueryVisitor().Translate(expression);
+            
             LambdaExpression lambdaExpression = (LambdaExpression)((UnaryExpression)(whereExpression.Arguments[1])).Operand;
 
             // Send the lambda expression through the partial evaluator.

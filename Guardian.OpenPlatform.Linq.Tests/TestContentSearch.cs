@@ -14,9 +14,8 @@ namespace Guardian.OpenPlatform.Linq.Tests
         public void Simple_where_clause()
         {
             var data = new QueryableOpenPlatformData<Content>();
-            var query = from c in data
-                        where c. WebTitle == "Nina Nastasia"
-                        select c;
+            var query = data.Where(c => c.WebTitle == "Nina Nastasia" && c.WebPublicationDate > DateTime.MinValue);
+                        
             var list = query.ToList();
             Assert.IsTrue(query.Count() > 0);
             foreach (var content in query)

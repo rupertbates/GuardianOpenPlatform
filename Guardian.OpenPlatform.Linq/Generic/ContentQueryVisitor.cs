@@ -19,9 +19,29 @@ namespace Guardian.OpenPlatform.Linq.Generic
             if (node.Method.Name == "Where")
                 //innermostWhereExpression = expression;
 
-            Visit(node.Arguments[0]);
+            foreach (var arg in node.Arguments)
+            {
+                Visit(arg);
+            }
+            //Visit(node.Arguments[0]);
 
             return node;
+        }
+        protected override Expression VisitBinary(BinaryExpression node)
+        {
+            return base.VisitBinary(node);
+        }
+        protected override Expression VisitLambda<T>(Expression<T> node)
+        {
+            return base.VisitLambda<T>(node);
+        }
+        protected override Expression VisitUnary(UnaryExpression node)
+        {
+            return base.VisitUnary(node);
+        }
+        protected override Expression VisitMember(MemberExpression node)
+        {
+            return base.VisitMember(node);
         }
     }
 }

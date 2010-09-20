@@ -15,10 +15,21 @@ namespace Guardian.OpenPlatform.Linq.Tests
         [TestMethod]
         public void TestMethod1()
         {
-            var vis = new ContentQueryVisitor();
-            var context = new OpenPlatformQueryContext();
-            //Expression ex = 
-            //vis.Translate();
+            
+            Dummy(c => c.WebTitle == "Nina Nastasia");
+            //DummyWhere(q => q.Where(c => c.WebTitle == "Nina Nastasia"));
+            
         }
+        protected void Dummy(Expression<Func<Content, bool>> expr)
+        {
+            var vis = new ContentQueryVisitor();
+            vis.Translate(expr);
+        }
+        protected void DummyWhere(Expression<Func<IQueryable<Content>, Expression<Func<Content, bool>>, IQueryable<Content>>> expr)
+        {
+            var vis = new ContentQueryVisitor();
+            vis.Translate(expr);
+        }
+        
     }
 }
