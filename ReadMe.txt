@@ -1,1 +1,1 @@
-A .Net client library for the Guardian Conent Api
+A .Net client library for the Guardian Content Api
