@@ -17,7 +17,7 @@ namespace Guardian.OpenPlatform.Tests
 		public TestApi()
 		{
 		    _apiUrl = ConfigurationHelper.GetConfigValue("ApiUrl");
-            _apiKey = ConfigurationHelper.GetConfigValue("ApiKey");
+            _apiKey = ConfigurationHelper.GetConfigValueOrDefault("ApiKey", "");
 		}
         [Test]
         [Ignore]

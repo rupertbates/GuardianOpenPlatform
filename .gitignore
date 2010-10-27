@@ -13,6 +13,8 @@
 UpgradeLog.XML
 _UpgradeReport_Files/
 
+*.suo
+
 # Directories #
 ###############
 bin/

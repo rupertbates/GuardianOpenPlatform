@@ -25,7 +25,7 @@ namespace Guardian.OpenPlatform
         {
             _service = service;
             _apiUrl = ConfigurationHelper.GetConfigValue("ApiUrl");
-            _apiKey = ConfigurationHelper.GetConfigValue("ApiKey");
+            _apiKey = ConfigurationHelper.GetConfigValueOrDefault("ApiKey", "");
         }
         public OpenPlatformSearch(string apiKey, string apiUrl) : this(new ApiFacade(), apiKey, apiUrl) { }
         public OpenPlatformSearch(IApiService service, string apiKey, string apiUrl)

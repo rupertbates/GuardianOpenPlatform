@@ -13,7 +13,7 @@ namespace Guardian.OpenPlatform
         public QueryTranslator()
         {
             _apiUrl = ConfigurationHelper.GetConfigValue("ApiUrl");
-            _apiKey = ConfigurationHelper.GetConfigValue("ApiKey");
+            _apiKey = ConfigurationHelper.GetConfigValueOrDefault("ApiKey", "");
 
         }
         public QueryTranslator(string apiKey, string apiUrl)
