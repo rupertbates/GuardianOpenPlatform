@@ -25,7 +25,9 @@ namespace Guardian.OpenPlatform
         {
             var qsb = new QueryStringBuilder();
             qsb.AddParameter("q", parameters.Query);
-            parameters.Tags.ForEach(f=> qsb.AddParameter("tag", f));
+            parameters.TagFilter.ForEach(f=> qsb.AddParameter("tag", f));
+            parameters.ShowTags.ForEach(f => qsb.AddParameter("show-tags", f));
+            parameters.ShowFields.ForEach(f => qsb.AddParameter("show-fields", f));
             qsb.AddParameter("section", parameters.Section);
             qsb.AddParameter("from-date", parameters.From);
             qsb.AddParameter("to-date", parameters.To);
@@ -58,7 +60,7 @@ namespace Guardian.OpenPlatform
             qsb = qsb ?? new QueryStringBuilder();
             qsb.AddParameter("api-key", _apiKey);
             qsb.AddParameter("format", "json");
-            qsb.AddParameter("show-fields", "all");
+            //qsb.AddParameter("show-fields", "all");
             qsb.AddParameter("order-by", "relevance");
 
             var query = _apiUrl + methodUri + qsb.GetQueryString();

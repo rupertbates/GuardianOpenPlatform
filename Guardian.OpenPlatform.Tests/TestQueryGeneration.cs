@@ -37,20 +37,39 @@ namespace Guardian.OpenPlatform.Tests
         }
 
         [Test]
-        public void Test_Content_Search_With_Tags_Translate()
+        public void Test_Content_Search_With_TagFilter_Translate()
         {
             var opqs = new QueryTranslator();
             var sp = new ContentSearchParameters
                          {
                              From = new DateTime(1971, 2, 20),
                              Query = "prince",
-                             Tags = new List<string> {"music/music", "culture/culture"}
+                             TagFilter = new List<string> {"music/music", "culture/culture"}
                          };
             var result = new Uri(opqs.Translate(sp));
 
             Assert.IsTrue(result.Query.Contains("q=prince"));
             Assert.IsTrue(result.Query.Contains("from-date=1971-02-20"));
             Assert.IsTrue(result.Query.Contains("tag=music/music,culture/culture"));
+            Assert.IsTrue(result.Query.Contains("api-key=" + _key));
+        }
+        [Test]
+        public void Test_Content_Search_With_ShowTags_and_ShowFields_Translate()
+        {
+            var opqs = new QueryTranslator();
+            var sp = new ContentSearchParameters
+            {
+                From = new DateTime(1971, 2, 20),
+                Query = "prince",
+                ShowTags = new List<string>{"all"},
+                ShowFields= new List<string>{"body,star-rating"}
+            };
+            var result = new Uri(opqs.Translate(sp));
+
+            Assert.IsTrue(result.Query.Contains("q=prince"));
+            Assert.IsTrue(result.Query.Contains("from-date=1971-02-20"));
+            Assert.IsTrue(result.Query.Contains("show-tags=all"));
+            Assert.IsTrue(result.Query.Contains("show-fields=body,star-rating"));
             Assert.IsTrue(result.Query.Contains("api-key=" + _key));
         }
 
@@ -87,7 +106,7 @@ namespace Guardian.OpenPlatform.Tests
         //    {
         //        From = new DateTime(1971, 2, 20),
         //        Query = "prince",
-        //        Tags = new List<string> { "music/music" }
+        //        TagFilter = new List<string> { "music/music" }
         //    };
         //    var result = new Uri(opqs.Translate(sp));
 
