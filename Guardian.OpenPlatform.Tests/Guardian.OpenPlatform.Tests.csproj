@@ -64,6 +64,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App.config" />
+    <None Include="Json\Reviews.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Guardian.OpenPlatform\Guardian.OpenPlatform.csproj">

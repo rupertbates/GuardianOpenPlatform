@@ -85,5 +85,23 @@ namespace Guardian.OpenPlatform.Tests
             Assert.AreEqual("http://content.guardianapis.com/news", first.ApiUrl);
 
         }
+        [Test]
+        public void Can_Deserialize_Reviews()
+        {
+            var content = File.ReadAllText("Json\\Reviews.json");
+
+            var response = new ObjectDeserializer().Deserialize<ContentSearchResponse>(content);
+
+            Assert.IsNotNull(response.Results);
+            Assert.AreEqual(64472, response.Total);
+            var first = response.Results[0];
+            Assert.AreEqual("Arise Black Man: the Peter Tosh Story – review", first.WebTitle);
+            Assert.AreEqual(null, first.Fields.StarRating);
+            
+            var second = response.Results[1];
+            Assert.AreEqual("AfroCubism – review", second.WebTitle);
+            Assert.AreEqual(4, second.Fields.StarRating);
+
+        }
     }
 }

@@ -1,4 +1,4 @@
-﻿using System;
+﻿    using System;
 
 namespace Guardian.OpenPlatform.Results.Entities
 {
@@ -20,6 +20,7 @@ namespace Guardian.OpenPlatform.Results.Entities
             public string Thumbnail { get; set; }
             public string Byline { get; set; }
             public string Publication { get; set; }
+            public int? StarRating { get; set; }
         }
 #endregion
     }

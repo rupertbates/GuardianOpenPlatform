@@ -7,7 +7,7 @@ namespace Guardian.OpenPlatform.Results
 {
     public enum UserTiers
     {
-        Public,
+        Free,
         Approved,
         Partner
     } ;
