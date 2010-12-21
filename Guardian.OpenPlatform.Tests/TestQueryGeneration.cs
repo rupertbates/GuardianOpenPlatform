@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using Guardian.Configuration;
 using NUnit.Framework;

@@ -1,4 +1,4 @@
-﻿using System.Xml;
+using System.Xml;
 using Guardian.OpenPlatform.Results;
 using Guardian.OpenPlatform.Results.Entities;
 using Guardian.OpenPlatform.Results.SearchResponses;

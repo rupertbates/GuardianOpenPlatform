@@ -1,4 +1,4 @@
-﻿using System.Xml;
+using System.Xml;
 using System.IO;
 
 namespace Guardian.OpenPlatform.Tests.Fakes

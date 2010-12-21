@@ -1,4 +1,4 @@
-﻿using Guardian.OpenPlatform.Results.Entities;
+using Guardian.OpenPlatform.Results.Entities;
 
 namespace Guardian.OpenPlatform.Results.SearchResponses
 {

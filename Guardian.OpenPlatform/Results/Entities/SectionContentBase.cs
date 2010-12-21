@@ -1,4 +1,4 @@
-﻿namespace Guardian.OpenPlatform.Results.Entities
+namespace Guardian.OpenPlatform.Results.Entities
 {
     public abstract class SectionContentBase : ContentBase
     {

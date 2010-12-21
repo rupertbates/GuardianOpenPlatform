@@ -1,4 +1,4 @@
-﻿namespace Guardian.OpenPlatform.Async
+namespace Guardian.OpenPlatform.Async
 {
     internal class AsyncTagsCallbackParameter
     {
